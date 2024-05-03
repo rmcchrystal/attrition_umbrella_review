@@ -1,0 +1,649 @@
+ref,author_year,trial_char,outcome,tidy_trial_char_tabular,tidy_trial_char_heatmap,trial_char_group,tidy_trial_char_old
+49,Levinson et al. (2022),Treatment frequency,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Levinson et al. (2022),Treatment frequency,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Levinson et al. (2022),Location,1,Trial location(s),Trial design | Location(s),Trial design,Trial design
+49,Levinson et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,Levinson et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Levinson et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+49,Levinson et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+49,Levinson et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+49,Levinson et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,Levinson et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Levinson et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+49,Levinson et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+49,Levinson et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+49,Levinson et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,Levinson et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Levinson et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+49,Levinson et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+49,Levinson et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Bevens et al. (2022),Multimedia elements score,1,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Bevens et al. (2022),Multimedia elements score,1,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Bevens et al. (2022),Overall engagement score,1,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Bevens et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,Bevens et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,Bevens et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+55,Bevens et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+55,Bevens et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Bevens et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,Bevens et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,Bevens et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+55,Bevens et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+55,Bevens et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Bevens et al. (2022),Publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,Bevens et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,Bevens et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+55,Bevens et al. (2022),intervention with placebo pill,0,Intervention components,Intervention components,Intervention-related,Intervention components
+55,Bevens et al. (2022),deviation bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+70,Bricca et al. (2022),Recruitment method,1,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+70,Bricca et al. (2022),Follow-up duration,1,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+70,Bricca et al. (2022),Financial incentives for smoking cessation,1,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,Bricca et al. (2022),Retention strategies,0,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,Bricca et al. (2022),non-smoking related financial inentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,Bricca et al. (2022),biomarker assessments,0,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,Bricca et al. (2022),primary endpoint,0,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,Bricca et al. (2022),intervention format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,Bricca et al. (2022),treatment frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,Bricca et al. (2022),pharmacological support,0,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,Bricca et al. (2022),setting,0,Trial design,Trial design,Trial design,Trial design
+70,Bricca et al. (2022),adjuvant interventions,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,Bricca et al. (2022),number of behaviour change techniques (BCTs) used,0,Number of components,Intervention components,Intervention-related,Intervention components
+70,Bricca et al. (2022),Retention strategies,0,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,Bricca et al. (2022),non-smoking related financial inentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,Bricca et al. (2022),biomarker assessments,0,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,Bricca et al. (2022),primary endpoint,0,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,Bricca et al. (2022),intervention format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,Bricca et al. (2022),treatment frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,Bricca et al. (2022),pharmacological support,0,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,Bricca et al. (2022),setting,0,Trial design,Trial design,Trial design,Trial design
+70,Bricca et al. (2022),adjuvant interventions,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,Bricca et al. (2022),number of behaviour change techniques (BCTs) used,0,Number of components,Intervention components,Intervention-related,Intervention components
+70,Bricca et al. (2022),Retention strategies,0,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,Bricca et al. (2022),non-smoking related financial inentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,Bricca et al. (2022),biomarker assessments,0,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,Bricca et al. (2022),primary endpoint,0,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,Bricca et al. (2022),intervention format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,Bricca et al. (2022),treatment frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,Bricca et al. (2022),pharmacological support,0,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,Bricca et al. (2022),setting,0,Trial design,Trial design,Trial design,Trial design
+70,Bricca et al. (2022),adjuvant interventions,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,Bricca et al. (2022),number of behaviour change techniques (BCTs) used,0,Number of components,Intervention components,Intervention-related,Intervention components
+94,Goldberg et al. (2021),Condition type,1,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+94,Goldberg et al. (2021),Sample size,1,Sample size,Trial design | Sample size,Trial design,Trial design
+95,Harris et al. (2021),Intervention components,0,Intervention components,Intervention components,Intervention-related,Intervention components
+95,Harris et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+95,Harris et al. (2021),session frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+95,Harris et al. (2021),session intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+95,Harris et al. (2021),session volume,0,Setting,Trial design | Setting,Trial design,Trial design
+95,Harris et al. (2021),delivery format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+95,Harris et al. (2021),setting,0,Trial design,Trial design,Trial design,Trial design
+95,Harris et al. (2021),intervention duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+95,Harris et al. (2021),supervision used,0,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+95,Harris et al. (2021),intervention tailoring,0,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+95,Harris et al. (2021),intervention adherence,0,Treatment adherence,Outcome | Treatment adherence,Outcome measures,Outcome measures
+99,Zhang et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+102,Song et al. (2021),Study design,1,Trial design,Trial design,Trial design,Trial design
+102,Song et al. (2021),Delivery format,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+102,Song et al. (2021),Delivery format,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+102,Song et al. (2021),Follow-up duration,1,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+102,Song et al. (2021),Intervention duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+102,Song et al. (2021),Number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,Song et al. (2021),enrollment setting,0,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),enrollment method,0,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),Number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,Song et al. (2021),enrollment setting,0,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),enrollment method,0,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),Number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,Song et al. (2021),enrollment setting,0,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),enrollment method,0,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),Number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,Song et al. (2021),enrollment setting,0,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),enrollment method,0,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),Number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,Song et al. (2021),enrollment setting,0,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,Song et al. (2021),enrollment method,0,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+107,Rehman et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),Setting,1,Setting,Trial design | Setting,Trial design,Trial design
+111,Vancampfort et al. (2021),Intervention frequency,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Intervention duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+111,Vancampfort et al. (2021),Supervision format,1,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+111,Vancampfort et al. (2021),Qualifications of supervisor,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+111,Vancampfort et al. (2021),Motivational strategies,1,Use of motivational strategies,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Vancampfort et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Vancampfort et al. (2021),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+113,Iliakis et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+113,Iliakis et al. (2021),treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+113,Iliakis et al. (2021),treatment intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+113,Iliakis et al. (2021),setting,0,Trial design,Trial design,Trial design,Trial design
+113,Iliakis et al. (2021),treatment orientation,0,Intervention type,Intervention type,Intervention-related,Intervention type
+113,Iliakis et al. (2021),trial randomisation,0,Trial design,Trial design,Trial design,Trial design
+113,Iliakis et al. (2021),use of phone coaching,0,Intervention components,Intervention components,Intervention-related,Intervention components
+113,Iliakis et al. (2021),presence of consultation team,0,Presence of consultation team,Trial conduct,Trial conduct,Trial conduct
+113,Iliakis et al. (2021),comorbidity targeted in addition to primary condition (BPD),0,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+120,Edwards-Stewart et al. (2021),Treatment type,1,Intervention type,Intervention type,Intervention-related,Intervention type
+120,Edwards-Stewart et al. (2021),Treatment type,1,Intervention type,Intervention type,Intervention-related,Intervention type
+120,Edwards-Stewart et al. (2021),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+120,Edwards-Stewart et al. (2021),country or study,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+120,Edwards-Stewart et al. (2021),total sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+120,Edwards-Stewart et al. (2021),active treatment frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,Edwards-Stewart et al. (2021),session frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,Edwards-Stewart et al. (2021),use of telehealth,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+120,Edwards-Stewart et al. (2021),use of incentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+120,Edwards-Stewart et al. (2021),originator of active treatment being part of study team,0,Involvement of treatment originator,Trial conduct,Trial conduct,Trial conduct
+120,Edwards-Stewart et al. (2021),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+120,Edwards-Stewart et al. (2021),country or study,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+120,Edwards-Stewart et al. (2021),total sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+120,Edwards-Stewart et al. (2021),active treatment frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,Edwards-Stewart et al. (2021),session frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,Edwards-Stewart et al. (2021),use of telehealth,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+120,Edwards-Stewart et al. (2021),use of incentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+120,Edwards-Stewart et al. (2021),originator of active treatment being part of study team,0,Involvement of treatment originator,Trial conduct,Trial conduct,Trial conduct
+145,Elsner et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+146,Minozzi et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+153,Shah et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+201,Zhou et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+201,Zhou et al. (2020),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+201,Zhou et al. (2020),treatment dose,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+201,Zhou et al. (2020),study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+211,Torous et al. (2020),Intervention elements,1,Intervention components,Intervention components,Intervention-related,Intervention components
+211,Torous et al. (2020),Intervention elements,1,Intervention components,Intervention components,Intervention-related,Intervention components
+211,Torous et al. (2020),Sample size,1,Sample size,Trial design | Sample size,Trial design,Trial design
+211,Torous et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+211,Torous et al. (2020),population,0,Population studied,Trial design | Population,Trial design,Trial design
+211,Torous et al. (2020),eligibility criteria,0,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,Torous et al. (2020),financial incentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,Torous et al. (2020),intervention duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+211,Torous et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+211,Torous et al. (2020),population,0,Population studied,Trial design | Population,Trial design,Trial design
+211,Torous et al. (2020),eligibility criteria,0,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,Torous et al. (2020),financial incentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,Torous et al. (2020),intervention duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+211,Torous et al. (2020),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+211,Torous et al. (2020),population,0,Population studied,Trial design | Population,Trial design,Trial design
+211,Torous et al. (2020),eligibility criteria,0,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,Torous et al. (2020),financial incentives,0,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,Torous et al. (2020),intervention duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+214,Furukawa et al. (2020),Treatment delivery format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+215,Jabardo-Camprubi et al. (2020),Treatment duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+215,Jabardo-Camprubi et al. (2020),Treatment protocols,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+217,Windle et al. (2020),Preference accommodation,1,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+217,Windle et al. (2020),Preferred treatment,1,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+221,Li et al. (2020),Publication year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+221,Li et al. (2020),Placeo lead-in period,1,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+221,Li et al. (2020),Study location,1,Trial location(s),Trial design | Location(s),Trial design,Trial design
+221,Li et al. (2020),Trial duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+221,Li et al. (2020),Number of sites,1,Number of sites,Trial design | Number of sites,Trial design,Trial design
+221,Li et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+221,Li et al. (2020),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+221,Li et al. (2020),number of active arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,Li et al. (2020),response rate,0,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,Li et al. (2020),number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Li et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+221,Li et al. (2020),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+221,Li et al. (2020),number of active arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,Li et al. (2020),response rate,0,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,Li et al. (2020),number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Li et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+221,Li et al. (2020),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+221,Li et al. (2020),number of active arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,Li et al. (2020),response rate,0,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,Li et al. (2020),number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Li et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+221,Li et al. (2020),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+221,Li et al. (2020),number of active arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,Li et al. (2020),response rate,0,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,Li et al. (2020),number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Li et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+221,Li et al. (2020),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+221,Li et al. (2020),number of active arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,Li et al. (2020),response rate,0,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,Li et al. (2020),number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+222,Linardon et al. (2020),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+222,Linardon et al. (2020),Intervention format,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+222,Linardon et al. (2020),Financial incentives,1,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+222,Linardon et al. (2020),Reminders for engagement,1,Use of reminders,Trial design | Retention strategies,Trial design,Trial design
+222,Linardon et al. (2020),Enrollment method,1,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+222,Linardon et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+222,Linardon et al. (2020),interventions with mindfulness elements,0,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Linardon et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+222,Linardon et al. (2020),interventions with mindfulness elements,0,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Linardon et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+222,Linardon et al. (2020),interventions with mindfulness elements,0,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Linardon et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+222,Linardon et al. (2020),interventions with mindfulness elements,0,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Linardon et al. (2020),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+222,Linardon et al. (2020),interventions with mindfulness elements,0,Intervention components,Intervention components,Intervention-related,Intervention components
+225,Palmowski et al. (2020),Study duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+225,Palmowski et al. (2020),Intervention arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+225,Palmowski et al. (2020),Recruitment age limit,0,Age limit,Eligibility criteria,Eligibility criteria,Eligibility criteria
+225,Palmowski et al. (2020),region,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+225,Palmowski et al. (2020),study size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+225,Palmowski et al. (2020),Recruitment age limit,0,Age limit,Eligibility criteria,Eligibility criteria,Eligibility criteria
+225,Palmowski et al. (2020),region,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+225,Palmowski et al. (2020),study size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+227,Dixon et al. (2020),Therapist attending consultant team meetings,1,Clinician-Consultant meetings,Trial conduct,Trial conduct,Trial conduct
+227,Dixon et al. (2020),Availability of telephone crisis coaching,1,Clinician telephone crisis coaching,Trial conduct,Intervention-related,Trial conduct
+227,Dixon et al. (2020),Targeted disorder,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+227,Dixon et al. (2020),dropout definition,0,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+227,Dixon et al. (2020),delivery format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+227,Dixon et al. (2020),therapist experience,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+227,Dixon et al. (2020),therapist adherence,0,Clinician protocol adherence,Trial conduct,Trial conduct,Trial conduct
+227,Dixon et al. (2020),treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+227,Dixon et al. (2020),Targeted disorder,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+227,Dixon et al. (2020),dropout definition,0,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+227,Dixon et al. (2020),delivery format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+227,Dixon et al. (2020),therapist experience,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+227,Dixon et al. (2020),therapist adherence,0,Clinician protocol adherence,Trial conduct,Trial conduct,Trial conduct
+227,Dixon et al. (2020),treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+256,Matsusaki et al. (2019),Publication year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+256,Matsusaki et al. (2019),Study duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+256,Matsusaki et al. (2019),Number of sites,1,Number of sites,Trial design | Number of sites,Trial design,Trial design
+256,Matsusaki et al. (2019),Placebo lead-in period,0,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,Matsusaki et al. (2019),number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,Matsusaki et al. (2019),placebo randomisation rate,0,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,Matsusaki et al. (2019),treatment regimen,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,Matsusaki et al. (2019),active comparator class,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,Matsusaki et al. (2019),setting,0,Trial design,Trial design,Trial design,Trial design
+256,Matsusaki et al. (2019),number of countries,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,Matsusaki et al. (2019),number of randomised subjects per site,0,Sample size,Trial design | Sample size,Trial design,Trial design
+256,Matsusaki et al. (2019),Placebo lead-in period,0,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,Matsusaki et al. (2019),number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,Matsusaki et al. (2019),placebo randomisation rate,0,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,Matsusaki et al. (2019),treatment regimen,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,Matsusaki et al. (2019),active comparator class,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,Matsusaki et al. (2019),setting,0,Trial design,Trial design,Trial design,Trial design
+256,Matsusaki et al. (2019),number of countries,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,Matsusaki et al. (2019),number of randomised subjects per site,0,Sample size,Trial design | Sample size,Trial design,Trial design
+256,Matsusaki et al. (2019),Placebo lead-in period,0,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,Matsusaki et al. (2019),number of arms,0,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,Matsusaki et al. (2019),placebo randomisation rate,0,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,Matsusaki et al. (2019),treatment regimen,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,Matsusaki et al. (2019),active comparator class,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,Matsusaki et al. (2019),setting,0,Trial design,Trial design,Trial design,Trial design
+256,Matsusaki et al. (2019),number of countries,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,Matsusaki et al. (2019),number of randomised subjects per site,0,Sample size,Trial design | Sample size,Trial design,Trial design
+269,Benbow et al. (2019),Between-session intervention,1,Intervention components,Intervention components,Intervention-related,Intervention components
+269,Benbow et al. (2019),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+269,Benbow et al. (2019),targeted disorder,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+269,Benbow et al. (2019),cognitive-behavioural interventions used in addition to primary treatment,0,Intervention components,Intervention components,Intervention-related,Intervention components
+269,Benbow et al. (2019),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,Linardon et al. (2019),Dropout definition,1,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+282,Linardon et al. (2019),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+282,Linardon et al. (2019),Treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+282,Linardon et al. (2019),session duration,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,Linardon et al. (2019),exclusion based on comorbidities,0,Exclusions based on comorbidites,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+282,Linardon et al. (2019),Treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+282,Linardon et al. (2019),session duration,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,Linardon et al. (2019),exclusion based on comorbidities,0,Exclusions based on comorbidites,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+288,DeCrescenzo et al. (2018),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+288,DeCrescenzo et al. (2018),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+288,DeCrescenzo et al. (2018),Treatment intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+288,DeCrescenzo et al. (2018),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+288,DeCrescenzo et al. (2018),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+288,DeCrescenzo et al. (2018),Treatment intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+288,DeCrescenzo et al. (2018),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+288,DeCrescenzo et al. (2018),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+301,Dudas et al. (2018),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+326,Linardon et al. (2018),Treatment modality,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+326,Linardon et al. (2018),Treatment protocol,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+326,Linardon et al. (2018),Number of sessions,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+326,Linardon et al. (2018),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,Linardon et al. (2018),dropout definition,0,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+326,Linardon et al. (2018),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,Linardon et al. (2018),dropout definition,0,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+326,Linardon et al. (2018),quality assessment,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,Linardon et al. (2018),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,Linardon et al. (2018),dropout definition,0,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+327,Ong et al. (2018),Therapist qualifications,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+327,Ong et al. (2018),Targeted condition,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+327,Ong et al. (2018),treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+327,Ong et al. (2018),treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+327,Ong et al. (2018),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+327,Ong et al. (2018),session frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+327,Ong et al. (2018),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+358,Pozza et al. (2017),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+378,Leucht et al. (2017),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+378,Leucht et al. (2017),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+396,Swift et al. (2017),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+399,Szymczynska et al. (2017),Number of sessions,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+399,Szymczynska et al. (2017),Study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+399,Szymczynska et al. (2017),setting,0,Trial design,Trial design,Trial design,Trial design
+399,Szymczynska et al. (2017),control intervention used,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+399,Szymczynska et al. (2017),duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+399,Szymczynska et al. (2017),number of evaluations,0,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+399,Szymczynska et al. (2017),study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+399,Szymczynska et al. (2017),number of follow-up assessments,0,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+413,Vancampfort et al. (2017),Treatment type,1,Intervention type,Intervention type,Intervention-related,Intervention type
+413,Vancampfort et al. (2017),Supervision format,1,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+413,Vancampfort et al. (2017),Clinician qualifications,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+413,Vancampfort et al. (2017),Setting,0,Setting,Trial design | Setting,Trial design,Trial design
+413,Vancampfort et al. (2017),motivational elements,0,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,Vancampfort et al. (2017),treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,Vancampfort et al. (2017),intervention frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Vancampfort et al. (2017),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Vancampfort et al. (2017),Setting,0,Setting,Trial design | Setting,Trial design,Trial design
+413,Vancampfort et al. (2017),motivational elements,0,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,Vancampfort et al. (2017),treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,Vancampfort et al. (2017),intervention frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Vancampfort et al. (2017),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Vancampfort et al. (2017),Setting,0,Setting,Trial design | Setting,Trial design,Trial design
+413,Vancampfort et al. (2017),motivational elements,0,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,Vancampfort et al. (2017),treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,Vancampfort et al. (2017),intervention frequency,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Vancampfort et al. (2017),intervention intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+415,de Campos Moreira et al. (2017),Study quality,1,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+415,de Campos Moreira et al. (2017),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+417,Arafah et al. (2017),Trial design,1,Trial design,Trial design,Trial design,Trial design
+440,Ibrahim et al. (2016),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+448,Ong et al. (2016),Therapist qualifications,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+448,Ong et al. (2016),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+463,Vancampfort et al. (2016),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Setting,1,Setting,Trial design | Setting,Trial design,Trial design
+463,Vancampfort et al. (2016),Intervention intensity,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+463,Vancampfort et al. (2016),Motivational elements of intervention,1,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+463,Vancampfort et al. (2016),Supervision format,1,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+463,Vancampfort et al. (2016),Supervisor qualification,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Vancampfort et al. (2016),Type of physical activity intervention,0,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Stubbs et al. (2016),Setting,1,Setting,Trial design | Setting,Trial design,Trial design
+465,Stubbs et al. (2016),Intervention type,1,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Stubbs et al. (2016),Supervisor qualifications,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+465,Stubbs et al. (2016),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Stubbs et al. (2016),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,Stubbs et al. (2016),publication type,0,Publication type,Publication Type/Year,Publication details,Publication type
+465,Stubbs et al. (2016),group exercise,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,Stubbs et al. (2016),supervision,0,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Stubbs et al. (2016),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,Stubbs et al. (2016),publication type,0,Publication type,Publication Type/Year,Publication details,Publication type
+465,Stubbs et al. (2016),group exercise,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,Stubbs et al. (2016),supervision,0,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Stubbs et al. (2016),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,Stubbs et al. (2016),publication type,0,Publication type,Publication Type/Year,Publication details,Publication type
+465,Stubbs et al. (2016),group exercise,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,Stubbs et al. (2016),supervision,0,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Stubbs et al. (2016),Study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,Stubbs et al. (2016),publication type,0,Publication type,Publication Type/Year,Publication details,Publication type
+465,Stubbs et al. (2016),group exercise,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,Stubbs et al. (2016),supervision,0,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+490,Cooper et al. (2015),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+490,Cooper et al. (2015),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+490,Cooper et al. (2015),region,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+490,Cooper et al. (2015),setting,0,Trial design,Trial design,Trial design,Trial design
+490,Cooper et al. (2015),target condition,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+490,Cooper et al. (2015),therapist qualifications,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+490,Cooper et al. (2015),study duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+490,Cooper et al. (2015),number of intended sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+490,Cooper et al. (2015),provider experience,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+498,Karyotaki et al. (2015),Intervention type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+498,Karyotaki et al. (2015),number of modules,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+510,Crutzen et al. (2015),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+510,Crutzen et al. (2015),Human contact in delivery,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+510,Crutzen et al. (2015),treatment intensity,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+510,Crutzen et al. (2015),control type,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+510,Crutzen et al. (2015),follow-up intensity,0,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+510,Crutzen et al. (2015),follow-up duration,0,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+535,Makatsori et al. (2014),Study duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+535,Makatsori et al. (2014),treatment formulation,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+535,Makatsori et al. (2014),treatment schedule,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+535,Makatsori et al. (2014),number of centres,0,Number of sites,Trial design | Number of sites,Trial design,Trial design
+535,Makatsori et al. (2014),number of sensitisations,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+535,Makatsori et al. (2014),country of study,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+538,Schalkwijk et al. (2014),Reporting year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+538,Schalkwijk et al. (2014),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+551,Hornyak et al. (2014),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+551,Hornyak et al. (2014),Active control type,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+551,Hornyak et al. (2014),active treatment type,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+567,Rutherford et al. (2013),Study type,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+567,Rutherford et al. (2013),Treatment duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+567,Rutherford et al. (2013),Visit frequency,1,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+567,Rutherford et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+567,Rutherford et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+567,Rutherford et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+569,Cunill et al. (2013),Treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+569,Cunill et al. (2013),dosing regimen,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+569,Cunill et al. (2013),comorbidity as inclusion criterion,0,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+569,Cunill et al. (2013),lead-in period,0,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+569,Cunill et al. (2013),recruitment method,0,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+570,Kredo et al. (2013),Model of care,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+586,Imel et al. (2013),Treatment modality,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+586,Imel et al. (2013),Number of sessions,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+586,Imel et al. (2013),Study size,1,Sample size,Trial design | Sample size,Trial design,Trial design
+586,Imel et al. (2013),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Koog et al. (2013),Treatment delivery route,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+590,Koog et al. (2013),Trial duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+590,Koog et al. (2013),Trial design,1,Trial design,Trial design,Trial design,Trial design
+590,Koog et al. (2013),Medication restrictions,1,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+590,Koog et al. (2013),Prohibited escape medication,1,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+590,Koog et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Koog et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Koog et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Koog et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Koog et al. (2013),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+638,Mitsikostas et al. (2012),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+638,Mitsikostas et al. (2012),AE frequency,1,Adverse event frequency,Outcome | Adverse event frequency,Outcome measures,Outcome measures
+638,Mitsikostas et al. (2012),Use of nocebo,1,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+638,Mitsikostas et al. (2012),Number of participants,1,Sample size,Trial design | Sample size,Trial design,Trial design
+638,Mitsikostas et al. (2012),Number of placebo participants,1,Sample size,Trial design | Sample size,Trial design,Trial design
+638,Mitsikostas et al. (2012),Study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Mitsikostas et al. (2012),Study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Mitsikostas et al. (2012),Study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Mitsikostas et al. (2012),Study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Mitsikostas et al. (2012),Study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,Mitsikostas et al. (2012),methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+657,Gehling et al. (2011),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+657,Gehling et al. (2011),Trial duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+657,Gehling et al. (2011),Methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+657,Gehling et al. (2011),Methodological quality,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+688,Papadopoulos et al. (2010),Publication year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+688,Papadopoulos et al. (2010),Trial phase,1,Trial phase,Trial design | Phase,Trial design,Trial design
+688,Papadopoulos et al. (2010),Treatment frequency,1,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+688,Papadopoulos et al. (2010),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+688,Papadopoulos et al. (2010),population,0,Population studied,Trial design | Population,Trial design,Trial design
+688,Papadopoulos et al. (2010),administration route,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,Papadopoulos et al. (2010),treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+688,Papadopoulos et al. (2010),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+688,Papadopoulos et al. (2010),population,0,Population studied,Trial design | Population,Trial design,Trial design
+688,Papadopoulos et al. (2010),administration route,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,Papadopoulos et al. (2010),treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+688,Papadopoulos et al. (2010),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+688,Papadopoulos et al. (2010),population,0,Population studied,Trial design | Population,Trial design,Trial design
+688,Papadopoulos et al. (2010),administration route,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,Papadopoulos et al. (2010),treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+693,Villeneuve et al. (2010),Study quality,1,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+693,Villeneuve et al. (2010),Treatment duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+693,Villeneuve et al. (2010),Treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+693,Villeneuve et al. (2010),Treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+698,Tedeschini et al. (2010),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+698,Tedeschini et al. (2010),Publication year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+698,Tedeschini et al. (2010),Trial duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+698,Tedeschini et al. (2010),dosing schedule,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+698,Tedeschini et al. (2010),probability of receiving placebo,0,Placebo randomisation,Trial conduct,Trial conduct,Trial conduct
+698,Tedeschini et al. (2010),Trial duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+698,Tedeschini et al. (2010),dosing schedule,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+698,Tedeschini et al. (2010),probability of receiving placebo,0,Placebo randomisation,Trial conduct,Trial conduct,Trial conduct
+713,Cuijpers et al. (2009),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+713,Cuijpers et al. (2009),Population,0,Population studied,Trial design | Population,Trial design,Trial design
+713,Cuijpers et al. (2009),recruitment method,0,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+713,Cuijpers et al. (2009),psychological treatment type,0,Intervention type,Intervention type,Intervention-related,Intervention type
+713,Cuijpers et al. (2009),treatment modality,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+713,Cuijpers et al. (2009),methodology,0,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+713,Cuijpers et al. (2009),study design,0,Trial duration,Trial design | Duration,Trial design,Trial design
+713,Cuijpers et al. (2009),medication class,0,Intervention type,Intervention type,Intervention-related,Intervention type
+723,Fabricatore et al. (2009),Treatment type,1,Intervention type,Intervention type,Intervention-related,Intervention type
+723,Fabricatore et al. (2009),Lead-in period,1,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+723,Fabricatore et al. (2009),Comorbidity as inclusion criterion,1,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+723,Fabricatore et al. (2009),Number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),number of lifestyle visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+723,Fabricatore et al. (2009),Number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),number of lifestyle visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+723,Fabricatore et al. (2009),Number of visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),number of lifestyle visits,0,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,Fabricatore et al. (2009),study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+725,Heo et al. (2009),Sample size,1,Sample size,Trial design | Sample size,Trial design,Trial design
+725,Heo et al. (2009),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+725,Heo et al. (2009),Number of arms,1,Number of arms,Trial design | Number of arms,Trial design,Trial design
+725,Heo et al. (2009),Treatment allocation,1,Intervention type,Intervention type,Intervention-related,Intervention type
+725,Heo et al. (2009),Duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+725,Heo et al. (2009),Cohort type,1,Population studied,Trial design | Population,Trial design,Trial design
+725,Heo et al. (2009),Study type,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+725,Heo et al. (2009),Location,1,Trial location(s),Trial design | Location(s),Trial design,Trial design
+725,Heo et al. (2009),Number of centres,1,Number of sites,Trial design | Number of sites,Trial design,Trial design
+731,Rabinowitz et al. (2009),Active drug class,1,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+731,Rabinowitz et al. (2009),Trial duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+731,Rabinowitz et al. (2009),Treatment modality,1,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+732,Reas et al. (2008),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+759,Weinmann et al. (2008),Drug class,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+778,Heneghan et al. (2007),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+788,Miyasaka et al. (2006),Drug class,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Martin et al. (2006),Drug class,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Martin et al. (2006),Drug class,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Martin et al. (2006),Drug class,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Martin et al. (2006),Drug class,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+840,Pampallona et al. (2004),Study duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+840,Pampallona et al. (2004),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+840,Pampallona et al. (2004),study quality,0,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+854,Frampton et al. (2003),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+869,Bacaltchuk et al. (2001),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+869,Bacaltchuk et al. (2001),Active drug class,1,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+875,Wahlbeck et al. (2001),Publication year,1,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+875,Wahlbeck et al. (2001),Active drug class,1,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+875,Wahlbeck et al. (2001),Trial duration,1,Trial duration,Trial design | Duration,Trial design,Trial design
+956,McVay et al. (2023),Run-in period,1,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+996,Hernandez-Rodriguez et al. (2022),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+996,Hernandez-Rodriguez et al. (2022),intervention duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+996,Hernandez-Rodriguez et al. (2022),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+1035,Chen et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+1198,Doyle et al. (2021),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+1202,Kato et al. (2021),Active treatment type,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1202,Kato et al. (2021),Study duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+1202,Kato et al. (2021),treatment discontinuation method,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+1202,Kato et al. (2021),dosing schedule,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1202,Kato et al. (2021),run-in treatment duration,0,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+1202,Kato et al. (2021),maintenance treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1202,Kato et al. (2021),location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1202,Kato et al. (2021),study year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+1202,Kato et al. (2021),targeted condition,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1360,Gagliardi et al. (2019),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+1519,Bighelli et al. (2018),Active treatment type,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1519,Bighelli et al. (2018),Number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1519,Bighelli et al. (2018),study duration,0,Trial duration,Trial design | Duration,Trial design,Trial design
+1519,Bighelli et al. (2018),setting,0,Trial design,Trial design,Trial design,Trial design
+1519,Bighelli et al. (2018),therapist qualifications,0,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+1519,Bighelli et al. (2018),baseline condition severity,0,Index condition severity,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1519,Bighelli et al. (2018),open-label,0,Open label design,Trial design,Trial design,Trial design
+1519,Bighelli et al. (2018),completers-only reporting,0,Reporting method,Quality/Risk of bias,Quality/Risk of bias,Reporting method
+1519,Bighelli et al. (2018),risk of bias,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+1519,Bighelli et al. (2018),risk of allegiance,0,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+1519,Bighelli et al. (2018),treatment-resistant focus,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1519,Bighelli et al. (2018),treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+1643,Aparicio et al. (2016),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+1643,Aparicio et al. (2016),clinical diagnosis,0,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+1643,Aparicio et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+1643,Aparicio et al. (2016),treatment duration,0,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1643,Aparicio et al. (2016),current density,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1643,Aparicio et al. (2016),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1655,Cramer et al. (2016),Intervention elements,1,Intervention components,Intervention components,Intervention-related,Intervention components
+1655,Cramer et al. (2016),Intervention elements,1,Intervention components,Intervention components,Intervention-related,Intervention components
+1655,Cramer et al. (2016),Intervention duration,1,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1655,Cramer et al. (2016),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+1655,Cramer et al. (2016),Study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Cramer et al. (2016),Study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Cramer et al. (2016),Study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Cramer et al. (2016),Study location,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Lam et al. (2022),Having trained facilitators,1,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+2125,Lam et al. (2022),Recruitment setting,1,Recruitment setting,Recruitment-related,Recruitment-related,Recruitment-related
+2125,Lam et al. (2022),Use of mindfulness based relapse prevention programmes,1,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,Lam et al. (2022),Non-clinical population,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,Lam et al. (2022),active treatment type,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,Lam et al. (2022),control treatment type,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,Lam et al. (2022),treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,Lam et al. (2022),treatment adaptation,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),mindfulness-based relapse prevention programmes,0,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,Lam et al. (2022),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,Lam et al. (2022),country,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Lam et al. (2022),Non-clinical population,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,Lam et al. (2022),active treatment type,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,Lam et al. (2022),control treatment type,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,Lam et al. (2022),treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,Lam et al. (2022),treatment adaptation,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),mindfulness-based relapse prevention programmes,0,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,Lam et al. (2022),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,Lam et al. (2022),country,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Lam et al. (2022),Non-clinical population,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),number of sessions,0,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,Lam et al. (2022),active treatment type,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,Lam et al. (2022),control treatment type,0,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,Lam et al. (2022),treatment format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,Lam et al. (2022),treatment adaptation,0,Population studied,Trial design | Population,Trial design,Trial design
+2125,Lam et al. (2022),mindfulness-based relapse prevention programmes,0,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,Lam et al. (2022),publication year,0,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,Lam et al. (2022),country,0,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2260,Stahl et al. (1993),Trial design,1,Trial design,Trial design,Trial design,Trial design
+2260,Stahl et al. (1993),Trial design,1,Trial design,Trial design,Trial design,Trial design
+2260,Stahl et al. (1993),Drug-treatment group,1,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2260,Stahl et al. (1993),Placebo group,1,Placebo treatment arm,Trial design | Placebo arm,Trial design,Trial design
+2260,Stahl et al. (1993),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Stahl et al. (1993),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Stahl et al. (1993),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Stahl et al. (1993),Treatment arm,0,Intervention type,Intervention type,Intervention-related,Intervention type
+2307,Lewis et al. (2020),Trauma focused therapy,1,Intervention focus,Intervention components,Intervention-related,Intervention components
+2307,Lewis et al. (2020),Delivery format,0,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2307,Lewis et al. (2020),recruitment format,0,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+2342,Albano et al. (2019),Treatment arm,1,Intervention type,Intervention type,Intervention-related,Intervention type
+2520,Huang et al. (2014),Active treatment type,0,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+3001,Hrobjartsson et al. (2014),Blinded groups,1,Blinding,Trial design | Blinding,Trial design,Trial design
+3048,Somerson et al. (2016),Trial type,1,Trial design,Trial design,Trial design,Trial design
+3048,Somerson et al. (2016),Follow-up strategy,1,Follow-up strategy,Follow-up related,Follow-up related,Follow-up related
+3048,Somerson et al. (2016),Funding source,1,Funding sources,Quality/Risk of bias,Quality/Risk of bias,Funding sources
+3048,Somerson et al. (2016),Location,1,Trial location(s),Trial design | Location(s),Trial design,Trial design
+3048,Somerson et al. (2016),Follow-up duration,1,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+3048,Somerson et al. (2016),Impact factor,0,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,Somerson et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,Somerson et al. (2016),orthopaedic speciality,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Somerson et al. (2016),Impact factor,0,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,Somerson et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,Somerson et al. (2016),orthopaedic speciality,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Somerson et al. (2016),Impact factor,0,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,Somerson et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,Somerson et al. (2016),orthopaedic speciality,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Somerson et al. (2016),Impact factor,0,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,Somerson et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,Somerson et al. (2016),orthopaedic speciality,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Somerson et al. (2016),Impact factor,0,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,Somerson et al. (2016),sample size,0,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,Somerson et al. (2016),orthopaedic speciality,0,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3123,Wasmann et al. (2019),Randomised patient preference treatment arm,1,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+3123,Wasmann et al. (2019),Use of crossover,1,Crossover design,Trial design | Use of crossover,Trial design,Trial design

@@ -1,0 +1,649 @@
+ref,trial_char,outcome,tidy_trial_char_tabular,tidy_trial_char_heatmap,trial_char_group,tidy_trial_char_old
+49,Treatment frequency,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Treatment frequency,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,Location,associated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+49,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+49,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+49,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+49,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+49,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+49,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+49,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+49,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+49,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+49,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+49,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Multimedia elements score,associated,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Multimedia elements score,associated,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Overall engagement score,associated,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+55,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+55,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+55,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+55,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+55,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+55,Publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+55,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+55,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+55,intervention with placebo pill,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+55,deviation bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+70,Recruitment method,associated,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+70,Follow-up duration,associated,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+70,Financial incentives for smoking cessation,associated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,Retention strategies,unassociated,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,non-smoking related financial inentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,biomarker assessments,unassociated,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,primary endpoint,unassociated,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,intervention format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,treatment frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,pharmacological support,unassociated,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+70,adjuvant interventions,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,number of behaviour change techniques (BCTs) used,unassociated,Number of components,Intervention components,Intervention-related,Intervention components
+70,Retention strategies,unassociated,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,non-smoking related financial inentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,biomarker assessments,unassociated,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,primary endpoint,unassociated,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,intervention format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,treatment frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,pharmacological support,unassociated,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+70,adjuvant interventions,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,number of behaviour change techniques (BCTs) used,unassociated,Number of components,Intervention components,Intervention-related,Intervention components
+70,Retention strategies,unassociated,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+70,non-smoking related financial inentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+70,biomarker assessments,unassociated,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+70,primary endpoint,unassociated,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+70,intervention format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+70,treatment frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+70,pharmacological support,unassociated,Pharmacological support,Intervention components,Intervention-related,Intervention components
+70,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+70,adjuvant interventions,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+70,number of behaviour change techniques (BCTs) used,unassociated,Number of components,Intervention components,Intervention-related,Intervention components
+94,Condition type,associated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+94,Sample size,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+95,Intervention components,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+95,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+95,session frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+95,session intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+95,session volume,unassociated,Setting,Trial design | Setting,Trial design,Trial design
+95,delivery format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+95,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+95,intervention duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+95,supervision used,unassociated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+95,intervention tailoring,unassociated,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+95,intervention adherence,unassociated,Treatment adherence,Outcome | Treatment adherence,Outcome measures,Outcome measures
+99,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+102,Study design,associated,Trial design,Trial design,Trial design,Trial design
+102,Delivery format,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+102,Delivery format,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+102,Follow-up duration,associated,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+102,Intervention duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+102,Number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,enrollment setting,unassociated,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,enrollment method,unassociated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,enrollment setting,unassociated,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,enrollment method,unassociated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,enrollment setting,unassociated,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,enrollment method,unassociated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,enrollment setting,unassociated,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,enrollment method,unassociated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+102,Number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+102,enrollment setting,unassociated,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+102,enrollment method,unassociated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+107,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,Setting,associated,Setting,Trial design | Setting,Trial design,Trial design
+111,Intervention frequency,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Intervention duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+111,Supervision format,associated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+111,Qualifications of supervisor,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+111,Motivational strategies,associated,Use of motivational strategies,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+111,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+111,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+113,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+113,treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+113,treatment intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+113,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+113,treatment orientation,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+113,trial randomisation,unassociated,Trial design,Trial design,Trial design,Trial design
+113,use of phone coaching,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+113,presence of consultation team,unassociated,Presence of consultation team,Trial conduct,Trial conduct,Trial conduct
+113,comorbidity targeted in addition to primary condition (BPD),unassociated,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+120,Treatment type,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+120,Treatment type,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+120,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+120,country or study,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+120,total sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+120,active treatment frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,session frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,use of telehealth,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+120,use of incentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+120,originator of active treatment being part of study team,unassociated,Involvement of treatment originator,Trial conduct,Trial conduct,Trial conduct
+120,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+120,country or study,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+120,total sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+120,active treatment frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,session frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+120,use of telehealth,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+120,use of incentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+120,originator of active treatment being part of study team,unassociated,Involvement of treatment originator,Trial conduct,Trial conduct,Trial conduct
+145,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+146,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+153,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+201,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+201,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+201,treatment dose,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+201,study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+211,Intervention elements,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+211,Intervention elements,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+211,Sample size,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+211,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+211,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+211,eligibility criteria,unassociated,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,financial incentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,intervention duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+211,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+211,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+211,eligibility criteria,unassociated,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,financial incentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,intervention duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+211,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+211,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+211,eligibility criteria,unassociated,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+211,financial incentives,unassociated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+211,intervention duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+214,Treatment delivery format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+215,Treatment duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+215,Treatment protocols,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+217,Preference accommodation,associated,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+217,Preferred treatment,associated,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+221,Publication year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+221,Placeo lead-in period,associated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+221,Study location,associated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+221,Trial duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+221,Number of sites,associated,Number of sites,Trial design | Number of sites,Trial design,Trial design
+221,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+221,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+221,number of active arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,response rate,unassociated,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+221,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+221,number of active arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,response rate,unassociated,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+221,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+221,number of active arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,response rate,unassociated,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+221,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+221,number of active arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,response rate,unassociated,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+221,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+221,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+221,number of active arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+221,response rate,unassociated,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+221,number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+222,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+222,Intervention format,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+222,Financial incentives,associated,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+222,Reminders for engagement,associated,Use of reminders,Trial design | Retention strategies,Trial design,Trial design
+222,Enrollment method,associated,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+222,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+222,interventions with mindfulness elements,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+222,interventions with mindfulness elements,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+222,interventions with mindfulness elements,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+222,interventions with mindfulness elements,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+222,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+222,interventions with mindfulness elements,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+225,Study duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+225,Intervention arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+225,Recruitment age limit,unassociated,Age limit,Eligibility criteria,Eligibility criteria,Eligibility criteria
+225,region,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+225,study size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+225,Recruitment age limit,unassociated,Age limit,Eligibility criteria,Eligibility criteria,Eligibility criteria
+225,region,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+225,study size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+227,Therapist attending consultant team meetings,associated,Clinician-Consultant meetings,Trial conduct,Trial conduct,Trial conduct
+227,Availability of telephone crisis coaching,associated,Clinician telephone crisis coaching,Trial conduct,Intervention-related,Trial conduct
+227,Targeted disorder,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+227,dropout definition,unassociated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+227,delivery format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+227,therapist experience,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+227,therapist adherence,unassociated,Clinician protocol adherence,Trial conduct,Trial conduct,Trial conduct
+227,treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+227,Targeted disorder,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+227,dropout definition,unassociated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+227,delivery format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+227,therapist experience,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+227,therapist adherence,unassociated,Clinician protocol adherence,Trial conduct,Trial conduct,Trial conduct
+227,treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+256,Publication year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+256,Study duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+256,Number of sites,associated,Number of sites,Trial design | Number of sites,Trial design,Trial design
+256,Placebo lead-in period,unassociated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,placebo randomisation rate,unassociated,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,treatment regimen,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,active comparator class,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+256,number of countries,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,number of randomised subjects per site,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+256,Placebo lead-in period,unassociated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,placebo randomisation rate,unassociated,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,treatment regimen,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,active comparator class,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+256,number of countries,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,number of randomised subjects per site,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+256,Placebo lead-in period,unassociated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+256,number of arms,unassociated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+256,placebo randomisation rate,unassociated,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+256,treatment regimen,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+256,active comparator class,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+256,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+256,number of countries,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+256,number of randomised subjects per site,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+269,Between-session intervention,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+269,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+269,targeted disorder,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+269,cognitive-behavioural interventions used in addition to primary treatment,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+269,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,Dropout definition,associated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+282,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+282,Treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+282,session duration,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,exclusion based on comorbidities,unassociated,Exclusions based on comorbidites,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+282,Treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+282,session duration,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+282,exclusion based on comorbidities,unassociated,Exclusions based on comorbidites,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+288,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+288,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+288,Treatment intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+288,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+288,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+288,Treatment intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+288,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+288,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+301,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+326,Treatment modality,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+326,Treatment protocol,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+326,Number of sessions,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+326,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,dropout definition,unassociated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+326,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,dropout definition,unassociated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+326,quality assessment,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+326,dropout definition,unassociated,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+327,Therapist qualifications,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+327,Targeted condition,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+327,treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+327,treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+327,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+327,session frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+327,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+358,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+378,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+378,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+396,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+399,Number of sessions,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+399,Study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+399,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+399,control intervention used,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+399,duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+399,number of evaluations,unassociated,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+399,study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+399,number of follow-up assessments,unassociated,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+413,Treatment type,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+413,Supervision format,associated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+413,Clinician qualifications,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+413,Setting,unassociated,Setting,Trial design | Setting,Trial design,Trial design
+413,motivational elements,unassociated,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,intervention frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Setting,unassociated,Setting,Trial design | Setting,Trial design,Trial design
+413,motivational elements,unassociated,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,intervention frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,Setting,unassociated,Setting,Trial design | Setting,Trial design,Trial design
+413,motivational elements,unassociated,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+413,treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+413,intervention frequency,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+413,intervention intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+415,Study quality,associated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+415,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+417,Trial design,associated,Trial design,Trial design,Trial design,Trial design
+440,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+448,Therapist qualifications,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+448,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+463,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Setting,associated,Setting,Trial design | Setting,Trial design,Trial design
+463,Intervention intensity,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+463,Motivational elements of intervention,associated,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+463,Supervision format,associated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+463,Supervisor qualification,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+463,Type of physical activity intervention,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Setting,associated,Setting,Trial design | Setting,Trial design,Trial design
+465,Intervention type,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Supervisor qualifications,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+465,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+465,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,publication type,unassociated,Publication type,Publication Type/Year,Publication details,Publication type
+465,group exercise,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,supervision,unassociated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,publication type,unassociated,Publication type,Publication Type/Year,Publication details,Publication type
+465,group exercise,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,supervision,unassociated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,publication type,unassociated,Publication type,Publication Type/Year,Publication details,Publication type
+465,group exercise,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,supervision,unassociated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+465,Study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+465,publication type,unassociated,Publication type,Publication Type/Year,Publication details,Publication type
+465,group exercise,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+465,supervision,unassociated,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+490,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+490,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+490,region,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+490,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+490,target condition,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+490,therapist qualifications,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+490,study duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+490,number of intended sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+490,provider experience,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+498,Intervention type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+498,number of modules,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+510,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+510,Human contact in delivery,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+510,treatment intensity,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+510,control type,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+510,follow-up intensity,unassociated,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+510,follow-up duration,unassociated,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+535,Study duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+535,treatment formulation,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+535,treatment schedule,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+535,number of centres,unassociated,Number of sites,Trial design | Number of sites,Trial design,Trial design
+535,number of sensitisations,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+535,country of study,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+538,Reporting year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+538,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+551,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+551,Active control type,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+551,active treatment type,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+567,Study type,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+567,Treatment duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+567,Visit frequency,associated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+567,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+567,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+567,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+569,Treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+569,dosing regimen,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+569,comorbidity as inclusion criterion,unassociated,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+569,lead-in period,unassociated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+569,recruitment method,unassociated,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+570,Model of care,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+586,Treatment modality,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+586,Number of sessions,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+586,Study size,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+586,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Treatment delivery route,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+590,Trial duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+590,Trial design,associated,Trial design,Trial design,Trial design,Trial design
+590,Medication restrictions,associated,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+590,Prohibited escape medication,associated,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+590,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+590,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+638,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+638,AE frequency,associated,Adverse event frequency,Outcome | Adverse event frequency,Outcome measures,Outcome measures
+638,Use of nocebo,associated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+638,Number of participants,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+638,Number of placebo participants,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+638,Study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+638,Study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+638,methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+657,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+657,Trial duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+657,Methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+657,Methodological quality,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+688,Publication year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+688,Trial phase,associated,Trial phase,Trial design | Phase,Trial design,Trial design
+688,Treatment frequency,associated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+688,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+688,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+688,administration route,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+688,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+688,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+688,administration route,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+688,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+688,population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+688,administration route,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+688,treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+693,Study quality,associated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+693,Treatment duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+693,Treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+693,Treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+698,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+698,Publication year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+698,Trial duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+698,dosing schedule,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+698,probability of receiving placebo,unassociated,Placebo randomisation,Trial conduct,Trial conduct,Trial conduct
+698,Trial duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+698,dosing schedule,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+698,probability of receiving placebo,unassociated,Placebo randomisation,Trial conduct,Trial conduct,Trial conduct
+713,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+713,Population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+713,recruitment method,unassociated,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+713,psychological treatment type,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+713,treatment modality,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+713,methodology,unassociated,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+713,study design,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+713,medication class,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+723,Treatment type,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+723,Lead-in period,associated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+723,Comorbidity as inclusion criterion,associated,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+723,Number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,number of lifestyle visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+723,Number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,number of lifestyle visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+723,Number of visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,number of lifestyle visits,unassociated,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+723,study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+725,Sample size,associated,Sample size,Trial design | Sample size,Trial design,Trial design
+725,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+725,Number of arms,associated,Number of arms,Trial design | Number of arms,Trial design,Trial design
+725,Treatment allocation,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+725,Duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+725,Cohort type,associated,Population studied,Trial design | Population,Trial design,Trial design
+725,Study type,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+725,Location,associated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+725,Number of centres,associated,Number of sites,Trial design | Number of sites,Trial design,Trial design
+731,Active drug class,associated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+731,Trial duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+731,Treatment modality,associated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+732,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+759,Drug class,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+778,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+788,Drug class,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Drug class,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Drug class,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Drug class,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+810,Drug class,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+840,Study duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+840,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+840,study quality,unassociated,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+854,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+869,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+869,Active drug class,associated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+875,Publication year,associated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+875,Active drug class,associated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+875,Trial duration,associated,Trial duration,Trial design | Duration,Trial design,Trial design
+956,Run-in period,associated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+996,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+996,intervention duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+996,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+1035,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+1198,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+1202,Active treatment type,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1202,Study duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+1202,treatment discontinuation method,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+1202,dosing schedule,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1202,run-in treatment duration,unassociated,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+1202,maintenance treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1202,location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1202,study year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+1202,targeted condition,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1360,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+1519,Active treatment type,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1519,Number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1519,study duration,unassociated,Trial duration,Trial design | Duration,Trial design,Trial design
+1519,setting,unassociated,Trial design,Trial design,Trial design,Trial design
+1519,therapist qualifications,unassociated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+1519,baseline condition severity,unassociated,Index condition severity,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1519,open-label,unassociated,Open label design,Trial design,Trial design,Trial design
+1519,completers-only reporting,unassociated,Reporting method,Quality/Risk of bias,Quality/Risk of bias,Reporting method
+1519,risk of bias,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+1519,risk of allegiance,unassociated,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+1519,treatment-resistant focus,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+1519,treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+1643,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+1643,clinical diagnosis,unassociated,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+1643,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+1643,treatment duration,unassociated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1643,current density,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+1643,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+1655,Intervention elements,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+1655,Intervention elements,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+1655,Intervention duration,associated,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+1655,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+1655,Study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+1655,Study location,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Having trained facilitators,associated,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+2125,Recruitment setting,associated,Recruitment setting,Recruitment-related,Recruitment-related,Recruitment-related
+2125,Use of mindfulness based relapse prevention programmes,associated,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,Non-clinical population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,active treatment type,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,control treatment type,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,treatment adaptation,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,mindfulness-based relapse prevention programmes,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,country,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Non-clinical population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,active treatment type,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,control treatment type,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,treatment adaptation,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,mindfulness-based relapse prevention programmes,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,country,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2125,Non-clinical population,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,number of sessions,unassociated,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+2125,active treatment type,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2125,control treatment type,unassociated,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+2125,treatment format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2125,treatment adaptation,unassociated,Population studied,Trial design | Population,Trial design,Trial design
+2125,mindfulness-based relapse prevention programmes,unassociated,Intervention components,Intervention components,Intervention-related,Intervention components
+2125,publication year,unassociated,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+2125,country,unassociated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+2260,Trial design,associated,Trial design,Trial design,Trial design,Trial design
+2260,Trial design,associated,Trial design,Trial design,Trial design,Trial design
+2260,Drug-treatment group,associated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+2260,Placebo group,associated,Placebo treatment arm,Trial design | Placebo arm,Trial design,Trial design
+2260,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+2260,Treatment arm,unassociated,Intervention type,Intervention type,Intervention-related,Intervention type
+2307,Trauma focused therapy,associated,Intervention focus,Intervention components,Intervention-related,Intervention components
+2307,Delivery format,unassociated,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+2307,recruitment format,unassociated,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+2342,Treatment arm,associated,Intervention type,Intervention type,Intervention-related,Intervention type
+2520,Active treatment type,unassociated,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+3001,Blinded groups,associated,Blinding,Trial design | Blinding,Trial design,Trial design
+3048,Trial type,associated,Trial design,Trial design,Trial design,Trial design
+3048,Follow-up strategy,associated,Follow-up strategy,Follow-up related,Follow-up related,Follow-up related
+3048,Funding source,associated,Funding sources,Quality/Risk of bias,Quality/Risk of bias,Funding sources
+3048,Location,associated,Trial location(s),Trial design | Location(s),Trial design,Trial design
+3048,Follow-up duration,associated,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+3048,Impact factor,unassociated,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,orthopaedic speciality,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Impact factor,unassociated,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,orthopaedic speciality,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Impact factor,unassociated,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,orthopaedic speciality,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Impact factor,unassociated,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,orthopaedic speciality,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3048,Impact factor,unassociated,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+3048,sample size,unassociated,Sample size,Trial design | Sample size,Trial design,Trial design
+3048,orthopaedic speciality,unassociated,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+3123,Randomised patient preference treatment arm,associated,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+3123,Use of crossover,associated,Crossover design,Trial design | Use of crossover,Trial design,Trial design

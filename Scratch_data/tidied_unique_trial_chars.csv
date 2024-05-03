@@ -1,0 +1,235 @@
+trial_char,tidy_trial_char_tabular,tidy_trial_char_heatmap,trial_char_group,tidy_trial_char_old
+Clinician qualifications,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Having trained facilitators,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+provider experience,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Qualifications of supervisor,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Supervisor qualification,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Supervisor qualifications,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+therapist experience,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Therapist qualifications,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+therapist qualifications,Clinician qualifications/training,Clinician qualifications/training,Trial conduct,Clinician qualifications/training
+Dropout definition,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+dropout definition,Dropout definition,Dropout definition,Quality/Risk of bias,Dropout definition
+baseline condition severity,Index condition severity,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+clinical diagnosis,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+Comorbidity as inclusion criterion,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+comorbidity as inclusion criterion,Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+comorbidity targeted in addition to primary condition (BPD),Comorbidities,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+Condition type,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria,Eligibility criteria
+exclusion based on comorbidities,Exclusions based on comorbidites,Eligibility | Comorbidities,Eligibility criteria,Eligibility criteria
+fatigue trial,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+Medication restrictions,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+orthopaedic speciality,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+Prohibited escape medication,Medication restrictions,Eligibility criteria,Eligibility criteria,Eligibility criteria
+Recruitment age limit,Age limit,Eligibility criteria,Eligibility criteria,Eligibility criteria
+target condition,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+Targeted condition,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+targeted condition,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+Targeted disorder,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+targeted disorder,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+treatment-resistant focus,Index condition type,Eligibility | Index condition,Eligibility criteria,Eligibility criteria
+Enrollment method,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+enrollment method,Enrolment method,Enrolment-related,Enrolment-related,Enrolment-related
+enrollment setting,Enrolment setting,Enrolment-related,Enrolment-related,Enrolment-related
+Follow-up duration,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+follow-up duration,Follow-up duration,Follow-up related,Follow-up related,Follow-up related
+follow-up intensity,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+Follow-up strategy,Follow-up strategy,Follow-up related,Follow-up related,Follow-up related
+number of evaluations,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+number of follow-up assessments,Follow-up frequency/intensity,Follow-up related,Follow-up related,Follow-up related
+Funding source,Funding sources,Quality/Risk of bias,Quality/Risk of bias,Funding sources
+funding source,Funding sources,Quality/Risk of bias,Quality/Risk of bias,Funding sources
+Impact factor,Impact factor,Publication Type/Year,Publication details,Publication/Reporting year
+Financial incentives,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+financial incentives,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+Financial incentives for smoking cessation,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+Motivational strategies,Use of motivational strategies,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+non-smoking related financial inentives,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+use of incentives,Using incentives,Motivational/Incentive strategies,Motivational/Incentive strategies,Motivational/Incentive strategies
+AE frequency,Adverse event frequency,Outcome | Adverse event frequency,Outcome measures,Outcome measures
+biomarker assessments,Biomarker assessments,Outcome | Biomarkers,Outcome measures,Outcome measures
+intervention adherence,Treatment adherence,Outcome | Treatment adherence,Outcome measures,Outcome measures
+Multimedia elements score,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+Overall engagement score,Participant engagement,Outcome | Engagement/Response,Outcome measures,Outcome measures
+primary endpoint,Primary endpoint,Outcome | Primary endpoint,Outcome measures,Outcome measures
+response rate,Response rate,Outcome | Engagement/Response,Outcome measures,Outcome measures
+intervention tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+Preference accommodation,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+Preferred treatment,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+Randomised patient preference treatment arm,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring,Preference/Tailoring
+publication type,Publication type,Publication Type/Year,Publication details,Publication type
+Publication year,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+publication year,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+Reporting year,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+Study type,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+Study year,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+study year,Publication/Reporting year,Publication Type/Year,Publication details,Publication/Reporting year
+recruitment format,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+Recruitment method,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+recruitment method,Recruitment strategies,Recruitment-related,Recruitment-related,Recruitment-related
+Recruitment setting,Recruitment setting,Recruitment-related,Recruitment-related,Recruitment-related
+completers-only reporting,Reporting method,Quality/Risk of bias,Quality/Risk of bias,Reporting method
+deviation bias,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+risk of allegiance,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+risk of bias,Risk of bias,Quality/Risk of bias,Quality/Risk of bias,Risk of bias
+Intervention components,Intervention components,Intervention components,Intervention-related,Intervention components
+Intervention elements,Intervention components,Intervention components,Intervention-related,Intervention components
+number of behaviour change techniques (BCTs) used,Number of components,Intervention components,Intervention-related,Intervention components
+pharmacological support,Pharmacological support,Intervention components,Intervention-related,Intervention components
+presence of consultation team,Presence of consultation team,Trial conduct,Trial conduct,Trial conduct
+Therapist attending consultant team meetings,Clinician-Consultant meetings,Trial conduct,Trial conduct,Trial conduct
+Trauma focused therapy,Intervention focus,Intervention components,Intervention-related,Intervention components
+Use of mindfulness based relapse prevention programmes,Intervention components,Intervention components,Intervention-related,Intervention components
+use of phone coaching,Intervention components,Intervention components,Intervention-related,Intervention components
+administration route,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Availability of telephone crisis coaching,Clinician telephone crisis coaching,Trial conduct,Intervention-related,Trial conduct
+Between-session intervention,Intervention components,Intervention components,Intervention-related,Intervention components
+cognitive-behavioural interventions used in addition to primary treatment,Intervention components,Intervention components,Intervention-related,Intervention components
+Delivery format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+delivery format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+group exercise,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Human contact in delivery,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Intervention format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+intervention format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+intervention with placebo pill,Intervention components,Intervention components,Intervention-related,Intervention components
+interventions with mindfulness elements,Intervention components,Intervention components,Intervention-related,Intervention components
+mindfulness-based relapse prevention programmes,Intervention components,Intervention components,Intervention-related,Intervention components
+Model of care,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment delivery format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment delivery route,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+treatment discontinuation method,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+treatment dose,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+treatment format,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+treatment formulation,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment modality,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+treatment modality,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment protocol,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Treatment protocols,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+use of telehealth,Intervention delivery/format,Intervention delivery/format,Intervention-related,Intervention delivery/format
+Intervention duration,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+intervention duration,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+maintenance treatment duration,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+Treatment duration,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+treatment duration,Intervention duration,Intervention duration,Intervention-related,Intervention duration
+active treatment frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+dosing regimen,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+dosing schedule,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+Intervention frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+intervention frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+Intervention intensity,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+intervention intensity,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+number of intended sessions,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+number of modules,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+number of sensitisations,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+Number of sessions,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+number of sessions,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+session duration,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+session frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+session intensity,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+Treatment frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+treatment frequency,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+treatment intensity,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+Treatment intensity,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+treatment regimen,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+treatment schedule,Intervention frequency/intensity,Intervention frequency/intensity,Intervention-related,Intervention frequency/intensity
+motivational elements,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+Motivational elements of intervention,Motivational/Incentive strategies,Motivational/Incentive strategies,Intervention-related,Motivational/Incentive strategies
+supervision,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+Supervision format,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+supervision used,Intervention supervision,Intervention supervision,Intervention-related,Intervention supervision
+active comparator class,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+Active control type,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+Active drug class,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+Active treatment type,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+active treatment type,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+adjuvant interventions,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+control intervention used,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+control treatment type,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+control type,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+current density,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+Drug class,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+Drug-treatment group,Experimental intervention type,Intervention type | Experimental,Intervention-related,Intervention type
+Intervention arm,Intervention type,Intervention type,Intervention-related,Intervention type
+Intervention type,Intervention type,Intervention type,Intervention-related,Intervention type
+intervention type,Intervention type,Intervention type,Intervention-related,Intervention type
+medication class,Intervention type,Intervention type,Intervention-related,Intervention type
+psychological treatment type,Intervention type,Intervention type,Intervention-related,Intervention type
+Treatment allocation,Intervention type,Intervention type,Intervention-related,Intervention type
+Treatment arm,Intervention type,Intervention type,Intervention-related,Intervention type
+treatment arm,Intervention type,Intervention type,Intervention-related,Intervention type
+treatment orientation,Intervention type,Intervention type,Intervention-related,Intervention type
+Treatment type,Intervention type,Intervention type,Intervention-related,Intervention type
+Type of physical activity intervention,Intervention type,Intervention type,Intervention-related,Intervention type
+Use of nocebo,Control/Comparator intervention type,Intervention type | Control/Comparator,Intervention-related,Intervention type
+originator of active treatment being part of study team,Involvement of treatment originator,Trial conduct,Trial conduct,Trial conduct
+therapist adherence,Clinician protocol adherence,Trial conduct,Trial conduct,Trial conduct
+Blinded groups,Blinding,Trial design | Blinding,Trial design,Trial design
+Cohort type,Population studied,Trial design | Population,Trial design,Trial design
+country,Trial location(s),Trial design | Location(s),Trial design,Trial design
+country of study,Trial location(s),Trial design | Location(s),Trial design,Trial design
+country or study,Trial location(s),Trial design | Location(s),Trial design,Trial design
+Duration,Trial duration,Trial design | Duration,Trial design,Trial design
+duration,Trial duration,Trial design | Duration,Trial design,Trial design
+Lead-in period,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+lead-in period,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+Location,Trial location(s),Trial design | Location(s),Trial design,Trial design
+location,Trial location(s),Trial design | Location(s),Trial design,Trial design
+Non-clinical population,Population studied,Trial design | Population,Trial design,Trial design
+number of active arms,Number of arms,Trial design | Number of arms,Trial design,Trial design
+Number of arms,Number of arms,Trial design | Number of arms,Trial design,Trial design
+number of arms,Number of arms,Trial design | Number of arms,Trial design,Trial design
+Number of centres,Number of sites,Trial design | Number of sites,Trial design,Trial design
+number of centres,Number of sites,Trial design | Number of sites,Trial design,Trial design
+number of countries,Trial location(s),Trial design | Location(s),Trial design,Trial design
+number of lifestyle visits,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+Number of participants,Sample size,Trial design | Sample size,Trial design,Trial design
+Number of placebo participants,Sample size,Trial design | Sample size,Trial design,Trial design
+number of randomised subjects per site,Sample size,Trial design | Sample size,Trial design,Trial design
+Number of sites,Number of sites,Trial design | Number of sites,Trial design,Trial design
+number of visits,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+Number of visits,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+open-label,Open label design,Trial design,Trial design,Trial design
+Placebo group,Placebo treatment arm,Trial design | Placebo arm,Trial design,Trial design
+Placebo lead-in period,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+placebo randomisation rate,Randomisation rate,Trial conduct,Trial conduct,Trial conduct
+Placeo lead-in period,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+Population,Population studied,Trial design | Population,Trial design,Trial design
+population,Population studied,Trial design | Population,Trial design,Trial design
+probability of receiving placebo,Placebo randomisation,Trial conduct,Trial conduct,Trial conduct
+region,Trial location(s),Trial design | Location(s),Trial design,Trial design
+Reminders for engagement,Use of reminders,Trial design | Retention strategies,Trial design,Trial design
+Retention strategies,Use of retention strategies,Trial design | Retention strategies,Trial design,Trial design
+Run-in period,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+run-in treatment duration,Use of run-in period,Trial design | Use of run-in,Trial design,Trial design
+Sample size,Sample size,Trial design | Sample size,Trial design,Trial design
+sample size,Sample size,Trial design | Sample size,Trial design,Trial design
+session volume,Setting,Trial design | Setting,Trial design,Trial design
+Setting,Setting,Trial design | Setting,Trial design,Trial design
+setting,Trial design,Trial design,Trial design,Trial design
+Study design,Trial design,Trial design,Trial design,Trial design
+study design,Trial duration,Trial design | Duration,Trial design,Trial design
+Study duration,Trial duration,Trial design | Duration,Trial design,Trial design
+study duration,Trial duration,Trial design | Duration,Trial design,Trial design
+Study location,Trial location(s),Trial design | Location(s),Trial design,Trial design
+study location,Trial location(s),Trial design | Location(s),Trial design,Trial design
+Study size,Sample size,Trial design | Sample size,Trial design,Trial design
+study size,Sample size,Trial design | Sample size,Trial design,Trial design
+total sample size,Sample size,Trial design | Sample size,Trial design,Trial design
+treatment adaptation,Population studied,Trial design | Population,Trial design,Trial design
+Trial design,Trial design,Trial design,Trial design,Trial design
+trial design,Trial design,Trial design,Trial design,Trial design
+Trial duration,Trial duration,Trial design | Duration,Trial design,Trial design
+Trial phase,Trial phase,Trial design | Phase,Trial design,Trial design
+Trial population,Population studied,Trial design | Population,Trial design,Trial design
+trial randomisation,Trial design,Trial design,Trial design,Trial design
+Trial type,Trial design,Trial design,Trial design,Trial design
+Use of crossover,Crossover design,Trial design | Use of crossover,Trial design,Trial design
+Visit frequency,Visit frequency,Trial design | Visit frequency,Trial design,Trial design
+methodological quality,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+Methodological quality,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+methodology,Methodological quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+quality assessment,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+Study quality,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias
+study quality,Trial quality,Quality/Risk of bias,Quality/Risk of bias,Quality/Risk of bias

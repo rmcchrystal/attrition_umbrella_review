@@ -1,0 +1,81 @@
+participant_char,tidy_participant_char,participant_char_group
+Age,Age,Demographics
+age,Age,Demographics
+allergens,Index condition type,Condition-related
+Allergic disease,Index condition type,Condition-related
+baseline CD4 count,Lab measures,Condition-related
+baseline condition severity,Index condition severity,Condition-related
+Baseline depression severity,Index condition severity,Condition-related
+baseline HIV viral load,Lab measures,Condition-related
+Baseline illness severity,Index condition severity,Condition-related
+Baseline PTSD symptoms,Index condition symptoms,Condition-related
+binge eating frequency,Index condition severity,Condition-related
+BMI,BMI,Demographics
+Cancer stage,Index condition severity,Condition-related
+Cardiorespiratory fitness,Cardiorespiratory fitness,Physical function
+comorbid alcohol abuse,Alcohol abuse,Substance use
+Comorbid anxiety,Anxiety,Depression/Anxiety
+comorbid depression,Depression,Depression/Anxiety
+Comorbidities,Presence of comorbidities,Comorbidity
+Comorbidity with depression,Depression,Depression/Anxiety
+Condition,Index condition type,Condition-related
+Condition treated,Index condition type,Condition-related
+condition-specific baseline depression symptoms,Depression,Depression/Anxiety
+depression and anxiety,Depression/Anxiety,Depression/Anxiety
+Depression indication,Depression,Depression/Anxiety
+depression or anxiety,Depression/Anxiety,Depression/Anxiety
+Depression severity,Index condition severity,Condition-related
+depression severity,Index condition severity,Condition-related
+Depressive symptoms,Index condition symptoms,Condition-related
+diagnosis,Index condition type,Condition-related
+Diagnosis,Index condition type,Condition-related
+dietary constraint,Index condition severity,Condition-related
+disease severity,Index condition severity,Condition-related
+Duration of illness,Index condition duration,Condition-related
+duration of illness,Index condition duration,Condition-related
+eating disorder status,Index condition type,Condition-related
+Education,Socioeconomic status,Demographics
+education,Socioeconomic status,Demographics
+employment status,Socioeconomic status,Demographics
+Employment status,Socioeconomic status,Demographics
+Gender,Sex,Demographics
+gender,Sex,Demographics
+Health status,General health,Health/Wellbeing
+health triggers,Health triggers,Health/Wellbeing
+HRQoL,Quality of Life,Health/Wellbeing
+Hypertension,Hypertension,Medical history
+illness severity,Index condition severity,Condition-related
+Life stage,Age,Demographics
+marital status,Relationship status,Demographics
+medical condition,Presence of comorbidities,Comorbidity
+Medical conditions,Presence of comorbidities,Comorbidity
+medication dosage,Medications/Therapies used,Medical history
+military history,Military history,Military experience
+Motivation to quit,Motivation to quit,Perceptions/Motivations
+nicotine dependency,Smoking status,Substance use
+number of comorbidites,Number of comorbidities,Comorbidity
+Number of pre-enrollment steps,Physical activity,Physical function
+ongoing mental health condition,Ongoing conditions,Medical history
+Ongoing physical condition,Ongoing conditions,Medical history
+Pathology,Index condition type,Condition-related
+Patient-caregiver relationship,Patient-caregiver relationship,Condition-related
+Personality disorders,Index condition type,Condition-related
+physical function,Physical function,Physical function
+psychiatric disorder,Index condition type,Condition-related
+PTSD symptoms,Index condition symptoms,Condition-related
+Race,Race/Ethnicity,Demographics
+race,Race/Ethnicity,Demographics
+Relationship status,Relationship status,Demographics
+relationship status,Relationship status,Demographics
+self-concerns about disorder,Concerns about disorder,Perceptions/Motivations
+severity of comorbidities,Comorbidity severity,Comorbidity
+severity of schizophrenia,Index condition severity,Condition-related
+sexual trauma,Index condition type,Condition-related
+smoking status,Smoking status,Substance use
+socioeconomic status,Socioeconomic status,Demographics
+substance use,Substance use,Substance use
+taking antidepressants,Medications/Therapies used,Medical history
+treatment experience,Treatment experience,Perceptions/Motivations
+use of opioid therapy,Medications/Therapies used,Medical history
+Veteran or military status,Veteran/Military status,Military experience
+veteran status,Veteran/Military status,Military experience

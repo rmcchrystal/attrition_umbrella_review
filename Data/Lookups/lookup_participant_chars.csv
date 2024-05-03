@@ -1,0 +1,223 @@
+ref,participant_char,outcome,tidy_participant_char,participant_char_group
+49,Baseline PTSD symptoms,associated,Index condition symptoms,Condition-related
+49,Age,unassociated,Age,Demographics
+49,gender,unassociated,Gender,Demographics
+49,military history,unassociated,Military history,Military experience
+70,Ongoing physical condition,associated,Ongoing conditions,Medical history
+70,Gender,associated,Gender,Demographics
+70,Motivation to quit,associated,Motivation to quit,Perceptions/Motivations
+70,Age,unassociated,Age,Demographics
+70,socioeconomic status,unassociated,Socioeconomic status,Demographics
+70,nicotine dependency,unassociated,Smoking status,Substance use
+70,ongoing mental health condition,unassociated,Ongoing conditions,Medical history
+70,health triggers,unassociated,Health triggers,Health/Wellbeing
+70,Age,unassociated,Age,Demographics
+70,socioeconomic status,unassociated,Socioeconomic status,Demographics
+70,nicotine dependency,unassociated,Smoking status,Substance use
+70,ongoing mental health condition,unassociated,Ongoing conditions,Medical history
+70,health triggers,unassociated,Health triggers,Health/Wellbeing
+70,Age,unassociated,Age,Demographics
+70,socioeconomic status,unassociated,Socioeconomic status,Demographics
+70,nicotine dependency,unassociated,Smoking status,Substance use
+70,ongoing mental health condition,unassociated,Ongoing conditions,Medical history
+70,health triggers,unassociated,Health triggers,Health/Wellbeing
+95,Age,associated,Age,Demographics
+95,Hypertension,associated,Hypertension,Medical history
+95,Gender,unassociated,Gender,Demographics
+95,BMI,unassociated,BMI,Demographics
+95,socioeconomic status,unassociated,Socioeconomic status,Demographics
+95,baseline condition severity,unassociated,Index condition severity,Condition-related
+95,number of comorbidites,unassociated,Number of comorbidities,Comorbidity
+95,severity of comorbidities,unassociated,Comorbidity severity,Comorbidity
+95,physical function,unassociated,Physical function,Physical function
+95,HRQoL,unassociated,Quality of Life,Health/Wellbeing
+95,depression and anxiety,unassociated,Depression/Anxiety,Depression/Anxiety
+95,Gender,unassociated,Gender,Demographics
+95,BMI,unassociated,BMI,Demographics
+95,socioeconomic status,unassociated,Socioeconomic status,Demographics
+95,baseline condition severity,unassociated,Index condition severity,Condition-related
+95,number of comorbidites,unassociated,Number of comorbidities,Comorbidity
+95,severity of comorbidities,unassociated,Comorbidity severity,Comorbidity
+95,physical function,unassociated,Physical function,Physical function
+95,HRQoL,unassociated,Quality of Life,Health/Wellbeing
+95,depression and anxiety,unassociated,Depression/Anxiety,Depression/Anxiety
+102,Patient-caregiver relationship,associated,Patient-caregiver relationship,Condition-related
+102,Cancer stage,unassociated,Index condition severity,Condition-related
+111,Age,unassociated,Age,Demographics
+111,gender,unassociated,Gender,Demographics
+111,diagnosis,unassociated,Index condition type,Condition-related
+121,PTSD symptoms,unassociated,Index condition symptoms,Condition-related
+121,condition-specific baseline depression symptoms,unassociated,Depression,Depression/Anxiety
+211,Gender,unassociated,Gender,Demographics
+211,age,unassociated,Age,Demographics
+215,Pathology,unassociated,Index condition type,Condition-related
+215,age,unassociated,Age,Demographics
+215,gender,unassociated,Gender,Demographics
+217,Age,unassociated,Age,Demographics
+217,gender,unassociated,Gender,Demographics
+217,race,unassociated,Race/Ethnicity,Demographics
+217,depression or anxiety,unassociated,Depression/Anxiety,Depression/Anxiety
+221,Baseline illness severity,associated,Index condition severity,Condition-related
+221,Age,unassociated,Age,Demographics
+221,gender,unassociated,Gender,Demographics
+225,Life stage,associated,Age,Demographics
+225,Life stage,associated,Age,Demographics
+225,Condition,unassociated,Index condition type,Condition-related
+225,gender,unassociated,Gender,Demographics
+225,Condition,unassociated,Index condition type,Condition-related
+225,gender,unassociated,Gender,Demographics
+256,Age,associated,Age,Demographics
+256,Diagnosis,unassociated,Index condition type,Condition-related
+256,disease severity,unassociated,Index condition severity,Condition-related
+256,gender,unassociated,Gender,Demographics
+282,Age,associated,Age,Demographics
+282,Gender,unassociated,Gender,Demographics
+282,race,unassociated,Race/Ethnicity,Demographics
+282,relationship status,unassociated,Relationship status,Demographics
+288,Gender,unassociated,Gender,Demographics
+288,age,unassociated,Age,Demographics
+288,use of opioid therapy,unassociated,Medications/Therapies used,Medical history
+288,substance use,unassociated,Substance use,Substance use
+288,comorbid alcohol abuse,unassociated,Alcohol abuse,Substance use
+326,Diagnosis,unassociated,Index condition type,Condition-related
+326,age,unassociated,Age,Demographics
+326,eating disorder status,unassociated,Index condition type,Condition-related
+326,self-concerns about disorder,unassociated,Concerns about disorder,Perceptions/Motivations
+326,dietary constraint,unassociated,Index condition severity,Condition-related
+326,binge eating frequency,unassociated,Index condition severity,Condition-related
+326,comorbid depression,unassociated,Depression,Depression/Anxiety
+327,Diagnosis,unassociated,Index condition type,Condition-related
+327,age,unassociated,Age,Demographics
+396,Condition treated,associated,Index condition type,Condition-related
+396,Condition treated,associated,Index condition type,Condition-related
+396,Condition treated,associated,Index condition type,Condition-related
+396,Condition treated,associated,Index condition type,Condition-related
+399,Age,unassociated,Age,Demographics
+399,gender,unassociated,Gender,Demographics
+399,duration of illness,unassociated,Index condition duration,Condition-related
+413,Gender,associated,Gender,Demographics
+413,BMI,associated,BMI,Demographics
+413,Cardiorespiratory fitness,associated,Cardiorespiratory fitness,Physical function
+413,Age,unassociated,Age,Demographics
+413,duration of illness,unassociated,Index condition duration,Condition-related
+413,employment status,unassociated,Socioeconomic status,Demographics
+413,race,unassociated,Race/Ethnicity,Demographics
+413,smoking status,unassociated,Smoking status,Substance use
+413,baseline CD4 count,unassociated,Lab measures,Condition-related
+413,baseline HIV viral load,unassociated,Lab measures,Condition-related
+413,Age,unassociated,Age,Demographics
+413,duration of illness,unassociated,Index condition duration,Condition-related
+413,employment status,unassociated,Socioeconomic status,Demographics
+413,race,unassociated,Race/Ethnicity,Demographics
+413,smoking status,unassociated,Smoking status,Substance use
+413,baseline CD4 count,unassociated,Lab measures,Condition-related
+413,baseline HIV viral load,unassociated,Lab measures,Condition-related
+413,Age,unassociated,Age,Demographics
+413,duration of illness,unassociated,Index condition duration,Condition-related
+413,employment status,unassociated,Socioeconomic status,Demographics
+413,race,unassociated,Race/Ethnicity,Demographics
+413,smoking status,unassociated,Smoking status,Substance use
+413,baseline CD4 count,unassociated,Lab measures,Condition-related
+413,baseline HIV viral load,unassociated,Lab measures,Condition-related
+415,Health status,associated,General health,Health/Wellbeing
+448,Condition,unassociated,Index condition type,Condition-related
+448,treatment experience,unassociated,Treatment experience,Perceptions/Motivations
+463,Age,unassociated,Age,Demographics
+463,gender,unassociated,Gender,Demographics
+463,duration of illness,unassociated,Index condition duration,Condition-related
+463,BMI,unassociated,BMI,Demographics
+463,medication dosage,unassociated,Medications/Therapies used,Medical history
+463,severity of schizophrenia,unassociated,Index condition severity,Condition-related
+465,Depressive symptoms,associated,Index condition symptoms,Condition-related
+465,Comorbidities,unassociated,Presence of comorbidities,Comorbidity
+465,age,unassociated,Age,Demographics
+465,gender,unassociated,Gender,Demographics
+465,taking antidepressants,unassociated,Medications/Therapies used,Medical history
+490,Race,associated,Race/Ethnicity,Demographics
+490,Personality disorders,associated,Index condition type,Condition-related
+490,Gender,unassociated,Gender,Demographics
+490,marital status,unassociated,Relationship status,Demographics
+490,age,unassociated,Age,Demographics
+490,taking antidepressants,unassociated,Medications/Therapies used,Medical history
+490,Gender,unassociated,Gender,Demographics
+490,marital status,unassociated,Relationship status,Demographics
+490,age,unassociated,Age,Demographics
+490,taking antidepressants,unassociated,Medications/Therapies used,Medical history
+498,Gender,associated,Gender,Demographics
+498,Age,associated,Age,Demographics
+498,Education,associated,Socioeconomic status,Demographics
+498,Relationship status,associated,Relationship status,Demographics
+498,Comorbid anxiety,associated,Anxiety,Depression/Anxiety
+498,Baseline depression severity,associated,Index condition severity,Condition-related
+498,Employment status,unassociated,Socioeconomic status,Demographics
+498,Employment status,unassociated,Socioeconomic status,Demographics
+498,Employment status,unassociated,Socioeconomic status,Demographics
+498,Employment status,unassociated,Socioeconomic status,Demographics
+498,Employment status,unassociated,Socioeconomic status,Demographics
+498,Employment status,unassociated,Socioeconomic status,Demographics
+535,Allergic disease,unassociated,Index condition type,Condition-related
+535,allergens,unassociated,Index condition type,Condition-related
+535,age,unassociated,Age,Demographics
+638,Comorbidity with depression,associated,Depression,Depression/Anxiety
+638,Age,associated,Age,Demographics
+638,Gender,unassociated,Gender,Demographics
+638,race,unassociated,Race/Ethnicity,Demographics
+638,Gender,unassociated,Gender,Demographics
+638,race,unassociated,Race/Ethnicity,Demographics
+688,Duration of illness,associated,Index condition duration,Condition-related
+688,Age,associated,Age,Demographics
+688,Gender,unassociated,Gender,Demographics
+688,Gender,unassociated,Gender,Demographics
+693,Age,associated,Age,Demographics
+693,Duration of illness,associated,Index condition duration,Condition-related
+693,Gender,unassociated,Gender,Demographics
+693,illness severity,unassociated,Index condition severity,Condition-related
+693,Gender,unassociated,Gender,Demographics
+693,illness severity,unassociated,Index condition severity,Condition-related
+698,Depression severity,associated,Index condition severity,Condition-related
+713,Diagnosis,unassociated,Index condition type,Condition-related
+713,depression severity,unassociated,Index condition severity,Condition-related
+723,Gender,associated,Gender,Demographics
+723,Gender,associated,Gender,Demographics
+723,Gender,associated,Gender,Demographics
+723,Gender,associated,Gender,Demographics
+723,BMI,associated,BMI,Demographics
+723,BMI,associated,BMI,Demographics
+723,Age,unassociated,Age,Demographics
+723,Age,unassociated,Age,Demographics
+723,Age,unassociated,Age,Demographics
+723,Age,unassociated,Age,Demographics
+723,Age,unassociated,Age,Demographics
+723,Age,unassociated,Age,Demographics
+725,Depression indication,associated,Depression,Depression/Anxiety
+725,Depression indication,associated,Depression,Depression/Anxiety
+725,Gender,unassociated,Gender,Demographics
+725,age,unassociated,Age,Demographics
+725,Gender,unassociated,Gender,Demographics
+725,age,unassociated,Age,Demographics
+778,Age,associated,Age,Demographics
+956,Number of pre-enrollment steps,associated,Physical activity,Physical function
+956,Number of pre-enrollment steps,associated,Physical activity,Physical function
+996,Age,unassociated,Age,Demographics
+996,gender,unassociated,Gender,Demographics
+1202,Age,associated,Age,Demographics
+1202,Gender,unassociated,Gender,Demographics
+1643,Age,unassociated,Age,Demographics
+1643,gender,unassociated,Gender,Demographics
+1655,Health status,associated,General health,Health/Wellbeing
+1655,Medical conditions,associated,Presence of comorbidities,Comorbidity
+1655,Gender,associated,Gender,Demographics
+1655,Age,associated,Age,Demographics
+2125,Age,associated,Age,Demographics
+2125,Race,unassociated,Race/Ethnicity,Demographics
+2125,gender,unassociated,Gender,Demographics
+2125,marital status,unassociated,Relationship status,Demographics
+2125,education,unassociated,Socioeconomic status,Demographics
+2125,medical condition,unassociated,Presence of comorbidities,Comorbidity
+2125,psychiatric disorder,unassociated,Index condition type,Condition-related
+2125,veteran status,unassociated,Veteran/Military status,Military experience
+2307,Veteran or military status,unassociated,Veteran/Military status,Military experience
+2307,sexual trauma,unassociated,Index condition type,Condition-related
+2307,gender,unassociated,Gender,Demographics
+2307,education,unassociated,Socioeconomic status,Demographics
+3048,Age,unassociated,Age,Demographics

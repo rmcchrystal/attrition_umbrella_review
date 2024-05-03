@@ -1,0 +1,117 @@
+RefID,Associated PC,Associated PC findings,Associated PC analysis,Associated PC statistic,Associated PC value,Unassociated PCs
+49,Baseline PTSD symptoms,Greater PTSD symptoms associated with higher dropout,Univariate metaregression,OR [95% CI]; p-value,"1.04 [1.01, 1.07]; p<0.05","Age, gender, military history"
+55,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+70,Ongoing physical condition,Having an ongoing physical condition was associated with higher retention (lower attrition),Multivariate metaregression,OR [95% CI]; p-value,"1.66 [1.04, 2.63]; p=0.03","Age, socioeconomic status, nicotine dependency, ongoing mental health condition, health triggers"
+70,Gender,Having a greater % of female participants was associated with lower retention (higher attrition),Multivariate metaregression,OR [95% CI]; p-value,"0.86 [0.98, 0.71]; p=0.03","Age, socioeconomic status, nicotine dependency, ongoing mental health condition, health triggers"
+70,Motivation to quit,Participants being motivated to quit smoking was associated with lower retention (higher attrition,Multivariate metaregression,OR [95% CI]; p-value,"0.74 [0.99, 0.54]; p=0.04","Age, socioeconomic status, nicotine dependency, ongoing mental health condition, health triggers"
+94,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+95,Age,Having a higher proportion of participants with hypertension and older age was associated with lower retention,Metaregression,Coefficient [95% CI]; Tau-sq; N,"-0.01 [-0.01, -0.01]; 0.06; 10","Gender, BMI, socioeconomic status, baseline condition severity, number of comorbidites, severity of comorbidities, physical function, HRQoL, depression and anxiety"
+95,Hypertension,Having a higher proportion of participants with hypertension and older age was associated with lower retention,Metaregression,Coefficient [95% CI]; Tau-sq; N,"-0.01 [-0.01, -0.01]; 0.06; 10","Gender, BMI, socioeconomic status, baseline condition severity, number of comorbidites, severity of comorbidities, physical function, HRQoL, depression and anxiety"
+99,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+102,Patient-caregiver relationship,Studies targetting different types of caregivers had significantly lower retention (higher attrition) compared to targetting patient-spousal caregivers,Quasipoisson regression,Coefficient (SE); p-value,-0.37 (0.07); p=<0.001,Cancer stage
+107,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+111,None,None,None,None,None,"Age, gender, diagnosis"
+113,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+120,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+121,None,None,None,None,None,"PTSD symptoms, condition-specific baseline depression symptoms"
+145,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+146,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+153,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+201,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+211,None,None,None,None,None,"Gender, age"
+214,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+215,None,None,None,None,None,"Pathology, age, gender"
+217,None,None,None,None,None,"Age, gender, race, depression or anxiety"
+221,Baseline illness severity,Participants having less severe baseline illness was associated with higher dropout,Univariate metaregression,Coefficient [95% CI]; p-value,"-0.07 [-0.13, -0.02]; p<0.05","Age, gender"
+222,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+225,Life stage,Studies having a greater % of elderly participants was associated with greater retention (lower attrition) in pharmacological trials,Metaregression,Coefficient [95% CI]; p-value,"0.01 [0.00, 0.02]; p=0.05","Condition, gender"
+225,Life stage,Studies having a greater % of elderly participants was associated with lower retention (higher attrition) in physical/physiotherapy trials,Metaregression,Coefficient [95% CI]; p-value,"-0.01 [-0.02, -0.00]; p=0.05","Condition, gender"
+227,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+256,Age,Older age was associated with higher dropout,Univariate metaregression,Coefficient (SE); p-value,0.016 (0.008); p=0.044 ,"Diagnosis, disease severity, gender"
+269,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+282,Age,Younger age was associated with lower dropout than older adults who were not elderly,Random effects model,p-value,p=0.006,"Gender, race, relationship status"
+288,None,None,None,None,None,"Gender, age, use of opioid therapy, substance use, comorbid alcohol abuse"
+301,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+326,None,None,None,None,None,"Diagnosis, age, eating disorder status, self-concerns about disorder, dietary constraint, binge eating frequency, comorbid depression"
+327,None,None,None,None,None,"Diagnosis, age"
+358,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+378,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+396,Condition treated,Participants with anorexia or bulimia were more likely to premature terminate treatment if assigned to pharmacotherapy compared to psychotherapy,Random effects model,OR [95% CI]; p-value; N,"2.46 [1.00, 6.05]; p<0.05; 2",
+396,Condition treated,Participants with depression were more likely to premature terminate treatment if assigned to pharmacotherapy compared to psychotherapy,Random effects model,OR [95% CI]; p-value; N,"1.26 [1.00, 1.58]; p<0.05; 44",
+396,Condition treated,Participants with OCD were less likely to premature terminate treatment if assigned to pharmacotherapy compared to combined therapy,Random effects model,OR [95% CI]; p-value; N,"0.47 [0.24, 0.94]; p<0.05; 3",
+396,Condition treated,Participants with PTSD were more likely to premature terminate treatment if assigned to pharmacotherapy compared to psychotherapy with a placebo pill,Random effects model,OR [95% CI]; p-value; N,"10.8 [1.26, 92.67]; p<0.05; 1",
+399,None,None,None,None,None,"Age, gender, duration of illness"
+413,Gender,Studies with a higher % of males had significantly higher dropout rates,Metaregression,Coefficient [95% CI]; p-value,"1.15 [0.06, 1.68]; p=0.048","Age, duration of illness, employment status, race, smoking status, baseline CD4 count, baseline HIV viral load"
+413,BMI,Studies with participants who have higher BMI had significantly higher dropout rates,Metaregression,Coefficient [95% CI]; p-value,"0.15 [0.01, 0.26]; p=0.03","Age, duration of illness, employment status, race, smoking status, baseline CD4 count, baseline HIV viral load"
+413,Cardiorespiratory fitness,Studies with less cardiovascularly fit participants had significantly higher dropout rates,Metaregression,Coefficient [95% CI]; p-value,"0.1 [0.03, 0.16]; p=0.006","Age, duration of illness, employment status, race, smoking status, baseline CD4 count, baseline HIV viral load"
+415,Health status,Healthy participants were more likely to dropout than unhealthy participants,Random effects model,Propotion [95% CI]; p-value,"0.45 [0.27, 0.78]; p=0.03",
+417,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+440,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+448,None,None,None,None,None,"Condition, treatment experience"
+463,None,None,None,None,None,"Age, gender, duration of illness, BMI, medication dosage, severity of schizophrenia "
+465,Depressive symptoms,Participants with more pronounced depressive symptoms were significantly more likely to dropout among those with major depressive disorder,Metaregression,Coefficient [95% CI]; p-value; N,"0.041 [0.081, 0.001]; p=0.04; 29","Comorbidities, age, gender, taking antidepressants"
+490,Race,Studies with a greater % of racially diverse samples had significantly higher dropout than studies,Metaregression,Slope [95% CI]; Intercept [95% CI]; p-value,"0.432 [0.043, 0.822]; 0.7843 [0.668, 0.900]; p=0.03","Gender, marital status, age, taking antidepressants"
+490,Personality disorders,Participants diagnosed with personality disorders were significantly more likely to dropout ,Metaregression,Slope [95% CI]; Intercept [95% CI]; p-value,"0.976 [0.563, 1.388]; 0.533 [0.351, 0.716]; p=0.00","Gender, marital status, age, taking antidepressants"
+498,Gender,Male participants had a significantly higher risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"1.08 [1.03, 1.13]; p=0.002",Employment status
+498,Age,Older aged participants had a significantly lower risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"0.98 [0.97, 0.99]; p=0.004",Employment status
+498,Education,Less educated participants had a significantly higher risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"1.26 [1.14, 1.39]; p=0.000",Employment status
+498,Relationship status,Participants in a relationship had a significantly higher risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"1.09 [0.95, 1.25]; p=0.05",Employment status
+498,Comorbid anxiety,Participants with comorbid anxiety had a significantly lower risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"1.18 [1.01, 1.38]; p=0.03",Employment status
+498,Baseline depression severity,Participants with a greater severity of baseline depression had a significantly higher risk of dropout,Multivariate metaregression,Risk ratio [95% CI]; p-value,"1.004 [1.003, 1.005]; p<0.001",Employment status
+510,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+535,None,None,None,None,None,"Allergic disease, allergens, age"
+538,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+551,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+567,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+569,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+570,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+586,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+590,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+638,Comorbidity with depression,Participants having a comorbidity with depression were significantly less likely to dropout from placebo treatment,Univariate metaregression,p-value,p=0.0270,"Gender, race"
+638,Age,Older participants were significantly less likely to dropout in placebo treatment,Univariate metaregression,p-value,p=0.0219,"Gender, race"
+657,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+688,Duration of illness,Participants with a longer disease duration were significantly more likely to dropout due to drug-related adverse reactions ,Metaregression,Coefficient; p-value,0.0057; p=0.525,Gender
+688,Age,Older participants were significantly more likely to dropout due to drug-related adverse reactions,Metaregression,Coefficient; p-value,0.0372; 0.0372,Gender
+693,Age,Older particpants were significantly more likely to dropout,Metaregression,Coefficient [95% CI]; p-value,"0.019 [0.001, 0.036]; p=0.032","Gender, illness severity"
+693,Duration of illness,Participants with a longer illness duration were significantly more likley to dropout,Metaregression,Coefficient [95% CI]; p-value,"0.039 [0.020, 0.057]; p=0.00004","Gender, illness severity"
+698,Depression severity,Participants with greater severity of depression had a significantly higher risk of discontinuing antidepressants compared to placebo treatment,Metaregression,p-value,p=0.03,
+713,None,None,None,None,None,"Diagnosis, depression severity"
+723,Gender,Studies with a greater % of women had significantly higher total attrition,Univariate metaregression,Coefficient (SD); p-value,0.33 (13); p=0.02,Age
+723,Gender,Studies with a greater % of women had significantly higher total attrition,Multivariable metaregression,F-statistic; p-value,9.92; p<0.01,Age
+723,Gender,Studies with a greater % of women had significantly higher non-AE-related attrition,Univariate metaregression,Coefficient (SD); p-value,0.37 (0.13); p=0.01,Age
+723,Gender,Studies with a greater % of women had significantly higher non-AE-related attrition,Multivariable metaregression,F-statistic; p-value,9.49; p<0.01,Age
+723,BMI,Participants having a high BMI was significantly associated with lower AE-related attrition,Univariate metaregression,Coefficient (SD); p-value,-0.86 (0.40); p=0.04,Age
+723,BMI,Participants having a high BMI was significantly associated with higher non-AE-related attrition,Univariate metaregression,Coefficient (SD); p-value,2.51 (1.19); p=0.05,Age
+725,Depression indication,Participants with a greater indication of depression had a significantly greater odds of dropping out,Univariate logistic regression,OR [95% CI]; p-value,"1.04 [1.02, 1.05]; p<0.0001","Gender, age"
+725,Depression indication,Participants with a greater indication of depression had a significantly greater odds of dropping out,Forward stepwise logistic regression,OR [95% CI]; p-value,"1.05 [1.03, 1.07]; p<0.0001","Gender, age"
+731,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+732,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+759,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+778,Age,Older aged participants were significantly more likely to dropout from trials involving self-monitoring of oral anticoagulation drugs,DerSimonian-Laird random effects model,p-value; N,p=0.012; 1,
+788,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+810,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+840,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+854,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+869,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+875,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+956,Number of pre-enrollment steps,Participants having a greater number of pre-enrollment steps was significantly associated with greater retention (lower attrition),Metaregression,Estimate [95% CI]; p-value,"2 [0.2, 3.8]; p=0.028",
+956,Number of pre-enrollment steps,Participants having a greater number of in-person pre-enrollment steps was significantly associated with greater retention (lower attrition),Metaregression,Estimate [95% CI]; p-value,"3.1 [0.6, 5.8]; p=0.018",
+996,None,None,None,None,None,"Age, gender"
+1035,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+1198,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+1202,Age,Older participants of placebo groups were significantly more likely to dropout than active group participants,Random effects model,OR [95% CI]; p-value; N,"0.32 [0.15, 0.71]; p=0.05; 539",Gender
+1360,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+1519,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+1643,None,None,None,None,None,"Age, gender"
+1655,Health status,Healthy participants had significantly lower dropout than participants with a medical condition,Subgroup analyses,Dropout rate [95% CI]; Chi-sq; p-value; N,"9.34 [7.16, 11.51]; 5.09; p=0.02",
+1655,Medical conditions,"Dropout differed significantly between conditions, and was notably highest in HIV participants",Subgroup analyses,Dropout rate [95% CI]; Chi-sq; p-value; N,"22.20 [4.30, 40.09]; 47.67; p<0.00001",
+1655,Gender,Female participants were significantly more likely to dropout than male participants,Subgroup analyses,Dropout rate [95% CI]; Chi-sq; p-value; N,"14.19 [11.36, 17.02]; 25.44; p<0.00001",
+1655,Age,Studies with mixed aged participants had significantly higher dropout,Subgroup analyses,Dropout rate [95% CI]; Chi-sq; p-value; N,"26.61 [11.37, 41.85]; 17.74; p=0.001",
+2125,Age,Older age was associated with a greater likelihood of overall attrition in control arms,Metaregression,Coefficient; p-value,-0.002; p=0.005,"Race, gender, marital status, education, medical condition, psychiatric disorder, veteran status"
+2260,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+2307,None,None,None,None,None,"Veteran or military status, sexual trauma, gender, education"
+2342,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+2520,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+3001,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed
+3048,None,None,None,None,None,Age
+3123,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed,Not analysed

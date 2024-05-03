@@ -1,0 +1,75 @@
+Attrition outcome,tidy_attrition_outcome,tidy_attrition_outcome_group
+Dropout rate,Dropout/Attrition,Attrition
+Attrition,Dropout/Attrition,Attrition
+Retention rate,Retention,Retention
+Differential retention rate,Differential retention,Retention
+Differential attrition,Differential attrition,Attrition
+Rate of premature discontinuation,Premature discontinuation,Attrition
+All cause dropout,Dropout/Attrition,Attrition
+Dropout due to AE,Causes of dropout/attrition,Attrition
+Treatment dropout rate,Treatment dropout,Attrition
+Primary and secondary treatment dropout,Treatment dropout,Attrition
+Waitlist dropout,Dropout/Attrition,Attrition
+Dropouts,Dropout/Attrition,Attrition
+Dropout from treatment,Treatment dropout,Attrition
+Dropout attrition,Dropout/Attrition,Attrition
+Dropout,Dropout/Attrition,Attrition
+Dropout for any reason,Dropout/Attrition,Attrition
+Dropout odds ratio,Dropout/Attrition,Attrition
+Placebo dropout rate,Treatment dropout,Attrition
+Study attrition,Dropout/Attrition,Attrition
+Participant retention,Retention,Retention
+Attrition due to adverse events,Causes of dropout/attrition,Attrition
+Attrition due to lack of efficacy,Causes of dropout/attrition,Attrition
+Treatment dropout,Treatment dropout,Attrition
+Study dropout,Dropout/Attrition,Attrition
+Dropout owing to lack of efficacy,Causes of dropout/attrition,Attrition
+Dropout owing to adverse events,Causes of dropout/attrition,Attrition
+Acceptability (dropout due to any cause),Dropout/Attrition,Attrition
+Tolerability (withdrawal from trial),Trial withdrawal,Attrition
+Premature termination,Premature termination,Attrition
+Dropout from experimental intervention,Treatment dropout,Attrition
+Dropout from study,Dropout/Attrition,Attrition
+Attrition or dropout rate,Dropout/Attrition,Attrition
+Relative attrition,Dropout/Attrition,Attrition
+Total dropout,Dropout/Attrition,Attrition
+Dropout ascribed to lack of efficacy,Causes of dropout/attrition,Attrition
+Dropout ascribed to adverse events,Causes of dropout/attrition,Attrition
+Dropout ascribed to miscellaneous factors,Dropout/Attrition due to other,Attrition
+Safety (dropouts due to adverse events),Causes of dropout/attrition,Attrition
+All-cause treatment discontinuation,Treatment discontinuation,Attrition
+Proportion of patients who discontinued because of lack of efficacy,Causes of dropout/attrition,Attrition
+Proportion of patients who discontinued due to adverse events,Causes of dropout/attrition,Attrition
+Attrition reasons,Causes of dropout/attrition,Attrition
+Discontinuation from trial,Trial discontinuation,Attrition
+Dropout due to adverse event,Causes of dropout/attrition,Attrition
+Nocebo dropout,Treatment dropout,Attrition
+Dropout due to lack of effect,Causes of dropout/attrition,Attrition
+Dropout due to adverse events,Causes of dropout/attrition,Attrition
+Dropout due to drug-related adverse reactions (DO),Causes of dropout/attrition,Attrition
+Withdrawal from trial,Trial withdrawal,Attrition
+Discontinuation rate,Trial discontinuation,Attrition
+Total attrition from all causes,Dropout/Attrition,Attrition
+AE-related attrition,Causes of dropout/attrition,Attrition
+Non-AE-related attrition,Causes of dropout/attrition,Attrition
+Attrition size,Dropout/Attrition,Attrition
+Total treatment arm dropout,Treatment dropout,Attrition
+"Overall dropout rate, dropouts due to adverse events)",Dropout/Attrition,Attrition
+Dropouts due to adverse events,Causes of dropout/attrition,Attrition
+Number of participants dropping out due to side effects,Causes of dropout/attrition,Attrition
+Total number of dropouts,Dropout/Attrition,Attrition
+All-cause discontinuation of treatment,Treatment dropout,Attrition
+Specific discontinuation due to adverse events,Causes of dropout/attrition,Attrition
+Safety (incidence of adverse events leading to withdrawal),Causes of dropout/attrition,Attrition
+Acceptability (withdrawal from trials),Trial withdrawal,Attrition
+Tolerability (dropout due to adverse events),Causes of dropout/attrition,Attrition
+Number of dropouts,Dropout/Attrition,Attrition
+Trial retention,Retention,Retention
+Acceptability,Acceptability,Attrition
+Tolerability,Tolerability,Attrition
+All-cause discontinuation,Dropout/Attrition,Attrition
+Attrition rate,Dropout/Attrition,Attrition
+Overall dropout,Dropout/Attrition,Attrition
+Dropouts due to perceived lack of drug effect,Causes of dropout/attrition,Attrition
+End of treatment dropout,Treatment dropout,Attrition
+Loss to follow-up,Causes of dropout/attrition,Attrition

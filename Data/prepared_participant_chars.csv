@@ -1,0 +1,223 @@
+ref,author_year,participant_char,outcome,tidy_participant_char,participant_char_group
+49,Levinson et al. (2022),Baseline PTSD symptoms,1,Index condition symptoms,Condition-related
+49,Levinson et al. (2022),Age,0,Age,Demographics
+49,Levinson et al. (2022),gender,0,Sex,Demographics
+49,Levinson et al. (2022),military history,0,Military history,Military experience
+70,Bricca et al. (2022),Ongoing physical condition,1,Ongoing conditions,Medical history
+70,Bricca et al. (2022),Gender,1,Sex,Demographics
+70,Bricca et al. (2022),Motivation to quit,1,Motivation to quit,Perceptions/Motivations
+70,Bricca et al. (2022),Age,0,Age,Demographics
+70,Bricca et al. (2022),socioeconomic status,0,Socioeconomic status,Demographics
+70,Bricca et al. (2022),nicotine dependency,0,Smoking status,Substance use
+70,Bricca et al. (2022),ongoing mental health condition,0,Ongoing conditions,Medical history
+70,Bricca et al. (2022),health triggers,0,Health triggers,Health/Wellbeing
+70,Bricca et al. (2022),Age,0,Age,Demographics
+70,Bricca et al. (2022),socioeconomic status,0,Socioeconomic status,Demographics
+70,Bricca et al. (2022),nicotine dependency,0,Smoking status,Substance use
+70,Bricca et al. (2022),ongoing mental health condition,0,Ongoing conditions,Medical history
+70,Bricca et al. (2022),health triggers,0,Health triggers,Health/Wellbeing
+70,Bricca et al. (2022),Age,0,Age,Demographics
+70,Bricca et al. (2022),socioeconomic status,0,Socioeconomic status,Demographics
+70,Bricca et al. (2022),nicotine dependency,0,Smoking status,Substance use
+70,Bricca et al. (2022),ongoing mental health condition,0,Ongoing conditions,Medical history
+70,Bricca et al. (2022),health triggers,0,Health triggers,Health/Wellbeing
+95,Harris et al. (2021),Age,1,Age,Demographics
+95,Harris et al. (2021),Hypertension,1,Hypertension,Medical history
+95,Harris et al. (2021),Gender,0,Sex,Demographics
+95,Harris et al. (2021),BMI,0,BMI,Demographics
+95,Harris et al. (2021),socioeconomic status,0,Socioeconomic status,Demographics
+95,Harris et al. (2021),baseline condition severity,0,Index condition severity,Condition-related
+95,Harris et al. (2021),number of comorbidites,0,Number of comorbidities,Comorbidity
+95,Harris et al. (2021),severity of comorbidities,0,Comorbidity severity,Comorbidity
+95,Harris et al. (2021),physical function,0,Physical function,Physical function
+95,Harris et al. (2021),HRQoL,0,Quality of Life,Health/Wellbeing
+95,Harris et al. (2021),depression and anxiety,0,Depression/Anxiety,Depression/Anxiety
+95,Harris et al. (2021),Gender,0,Sex,Demographics
+95,Harris et al. (2021),BMI,0,BMI,Demographics
+95,Harris et al. (2021),socioeconomic status,0,Socioeconomic status,Demographics
+95,Harris et al. (2021),baseline condition severity,0,Index condition severity,Condition-related
+95,Harris et al. (2021),number of comorbidites,0,Number of comorbidities,Comorbidity
+95,Harris et al. (2021),severity of comorbidities,0,Comorbidity severity,Comorbidity
+95,Harris et al. (2021),physical function,0,Physical function,Physical function
+95,Harris et al. (2021),HRQoL,0,Quality of Life,Health/Wellbeing
+95,Harris et al. (2021),depression and anxiety,0,Depression/Anxiety,Depression/Anxiety
+102,Song et al. (2021),Patient-caregiver relationship,1,Patient-caregiver relationship,Condition-related
+102,Song et al. (2021),Cancer stage,0,Index condition severity,Condition-related
+111,Vancampfort et al. (2021),Age,0,Age,Demographics
+111,Vancampfort et al. (2021),gender,0,Sex,Demographics
+111,Vancampfort et al. (2021),diagnosis,0,Index condition type,Condition-related
+121,Kline et al. (2021),PTSD symptoms,0,Index condition symptoms,Condition-related
+121,Kline et al. (2021),condition-specific baseline depression symptoms,0,Depression,Depression/Anxiety
+211,Torous et al. (2020),Gender,0,Sex,Demographics
+211,Torous et al. (2020),age,0,Age,Demographics
+215,Jabardo-Camprubi et al. (2020),Pathology,0,Index condition type,Condition-related
+215,Jabardo-Camprubi et al. (2020),age,0,Age,Demographics
+215,Jabardo-Camprubi et al. (2020),gender,0,Sex,Demographics
+217,Windle et al. (2020),Age,0,Age,Demographics
+217,Windle et al. (2020),gender,0,Sex,Demographics
+217,Windle et al. (2020),race,0,Race/Ethnicity,Demographics
+217,Windle et al. (2020),depression or anxiety,0,Depression/Anxiety,Depression/Anxiety
+221,Li et al. (2020),Baseline illness severity,1,Index condition severity,Condition-related
+221,Li et al. (2020),Age,0,Age,Demographics
+221,Li et al. (2020),gender,0,Sex,Demographics
+225,Palmowski et al. (2020),Life stage,1,Age,Demographics
+225,Palmowski et al. (2020),Life stage,1,Age,Demographics
+225,Palmowski et al. (2020),Condition,0,Index condition type,Condition-related
+225,Palmowski et al. (2020),gender,0,Sex,Demographics
+225,Palmowski et al. (2020),Condition,0,Index condition type,Condition-related
+225,Palmowski et al. (2020),gender,0,Sex,Demographics
+256,Matsusaki et al. (2019),Age,1,Age,Demographics
+256,Matsusaki et al. (2019),Diagnosis,0,Index condition type,Condition-related
+256,Matsusaki et al. (2019),disease severity,0,Index condition severity,Condition-related
+256,Matsusaki et al. (2019),gender,0,Sex,Demographics
+282,Linardon et al. (2019),Age,1,Age,Demographics
+282,Linardon et al. (2019),Gender,0,Sex,Demographics
+282,Linardon et al. (2019),race,0,Race/Ethnicity,Demographics
+282,Linardon et al. (2019),relationship status,0,Relationship status,Demographics
+288,DeCrescenzo et al. (2018),Gender,0,Sex,Demographics
+288,DeCrescenzo et al. (2018),age,0,Age,Demographics
+288,DeCrescenzo et al. (2018),use of opioid therapy,0,Medications/Therapies used,Medical history
+288,DeCrescenzo et al. (2018),substance use,0,Substance use,Substance use
+288,DeCrescenzo et al. (2018),comorbid alcohol abuse,0,Alcohol abuse,Substance use
+326,Linardon et al. (2018),Diagnosis,0,Index condition type,Condition-related
+326,Linardon et al. (2018),age,0,Age,Demographics
+326,Linardon et al. (2018),eating disorder status,0,Index condition type,Condition-related
+326,Linardon et al. (2018),self-concerns about disorder,0,Concerns about disorder,Perceptions/Motivations
+326,Linardon et al. (2018),dietary constraint,0,Index condition severity,Condition-related
+326,Linardon et al. (2018),binge eating frequency,0,Index condition severity,Condition-related
+326,Linardon et al. (2018),comorbid depression,0,Depression,Depression/Anxiety
+327,Ong et al. (2018),Diagnosis,0,Index condition type,Condition-related
+327,Ong et al. (2018),age,0,Age,Demographics
+396,Swift et al. (2017),Condition treated,1,Index condition type,Condition-related
+396,Swift et al. (2017),Condition treated,1,Index condition type,Condition-related
+396,Swift et al. (2017),Condition treated,1,Index condition type,Condition-related
+396,Swift et al. (2017),Condition treated,1,Index condition type,Condition-related
+399,Szymczynska et al. (2017),Age,0,Age,Demographics
+399,Szymczynska et al. (2017),gender,0,Sex,Demographics
+399,Szymczynska et al. (2017),duration of illness,0,Index condition duration,Condition-related
+413,Vancampfort et al. (2017),Gender,1,Sex,Demographics
+413,Vancampfort et al. (2017),BMI,1,BMI,Demographics
+413,Vancampfort et al. (2017),Cardiorespiratory fitness,1,Cardiorespiratory fitness,Physical function
+413,Vancampfort et al. (2017),Age,0,Age,Demographics
+413,Vancampfort et al. (2017),duration of illness,0,Index condition duration,Condition-related
+413,Vancampfort et al. (2017),employment status,0,Socioeconomic status,Demographics
+413,Vancampfort et al. (2017),race,0,Race/Ethnicity,Demographics
+413,Vancampfort et al. (2017),smoking status,0,Smoking status,Substance use
+413,Vancampfort et al. (2017),baseline CD4 count,0,Lab measures,Condition-related
+413,Vancampfort et al. (2017),baseline HIV viral load,0,Lab measures,Condition-related
+413,Vancampfort et al. (2017),Age,0,Age,Demographics
+413,Vancampfort et al. (2017),duration of illness,0,Index condition duration,Condition-related
+413,Vancampfort et al. (2017),employment status,0,Socioeconomic status,Demographics
+413,Vancampfort et al. (2017),race,0,Race/Ethnicity,Demographics
+413,Vancampfort et al. (2017),smoking status,0,Smoking status,Substance use
+413,Vancampfort et al. (2017),baseline CD4 count,0,Lab measures,Condition-related
+413,Vancampfort et al. (2017),baseline HIV viral load,0,Lab measures,Condition-related
+413,Vancampfort et al. (2017),Age,0,Age,Demographics
+413,Vancampfort et al. (2017),duration of illness,0,Index condition duration,Condition-related
+413,Vancampfort et al. (2017),employment status,0,Socioeconomic status,Demographics
+413,Vancampfort et al. (2017),race,0,Race/Ethnicity,Demographics
+413,Vancampfort et al. (2017),smoking status,0,Smoking status,Substance use
+413,Vancampfort et al. (2017),baseline CD4 count,0,Lab measures,Condition-related
+413,Vancampfort et al. (2017),baseline HIV viral load,0,Lab measures,Condition-related
+415,de Campos Moreira et al. (2017),Health status,1,General health,Health/Wellbeing
+448,Ong et al. (2016),Condition,0,Index condition type,Condition-related
+448,Ong et al. (2016),treatment experience,0,Treatment experience,Perceptions/Motivations
+463,Vancampfort et al. (2016),Age,0,Age,Demographics
+463,Vancampfort et al. (2016),gender,0,Sex,Demographics
+463,Vancampfort et al. (2016),duration of illness,0,Index condition duration,Condition-related
+463,Vancampfort et al. (2016),BMI,0,BMI,Demographics
+463,Vancampfort et al. (2016),medication dosage,0,Medications/Therapies used,Medical history
+463,Vancampfort et al. (2016),severity of schizophrenia,0,Index condition severity,Condition-related
+465,Stubbs et al. (2016),Depressive symptoms,1,Index condition symptoms,Condition-related
+465,Stubbs et al. (2016),Comorbidities,0,Presence of comorbidities,Comorbidity
+465,Stubbs et al. (2016),age,0,Age,Demographics
+465,Stubbs et al. (2016),gender,0,Sex,Demographics
+465,Stubbs et al. (2016),taking antidepressants,0,Medications/Therapies used,Medical history
+490,Cooper et al. (2015),Race,1,Race/Ethnicity,Demographics
+490,Cooper et al. (2015),Personality disorders,1,Index condition type,Condition-related
+490,Cooper et al. (2015),Gender,0,Sex,Demographics
+490,Cooper et al. (2015),marital status,0,Relationship status,Demographics
+490,Cooper et al. (2015),age,0,Age,Demographics
+490,Cooper et al. (2015),taking antidepressants,0,Medications/Therapies used,Medical history
+490,Cooper et al. (2015),Gender,0,Sex,Demographics
+490,Cooper et al. (2015),marital status,0,Relationship status,Demographics
+490,Cooper et al. (2015),age,0,Age,Demographics
+490,Cooper et al. (2015),taking antidepressants,0,Medications/Therapies used,Medical history
+498,Karyotaki et al. (2015),Gender,1,Sex,Demographics
+498,Karyotaki et al. (2015),Age,1,Age,Demographics
+498,Karyotaki et al. (2015),Education,1,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Relationship status,1,Relationship status,Demographics
+498,Karyotaki et al. (2015),Comorbid anxiety,1,Anxiety,Depression/Anxiety
+498,Karyotaki et al. (2015),Baseline depression severity,1,Index condition severity,Condition-related
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+498,Karyotaki et al. (2015),Employment status,0,Socioeconomic status,Demographics
+535,Makatsori et al. (2014),Allergic disease,0,Index condition type,Condition-related
+535,Makatsori et al. (2014),allergens,0,Index condition type,Condition-related
+535,Makatsori et al. (2014),age,0,Age,Demographics
+638,Mitsikostas et al. (2012),Comorbidity with depression,1,Depression,Depression/Anxiety
+638,Mitsikostas et al. (2012),Age,1,Age,Demographics
+638,Mitsikostas et al. (2012),Gender,0,Sex,Demographics
+638,Mitsikostas et al. (2012),race,0,Race/Ethnicity,Demographics
+638,Mitsikostas et al. (2012),Gender,0,Sex,Demographics
+638,Mitsikostas et al. (2012),race,0,Race/Ethnicity,Demographics
+688,Papadopoulos et al. (2010),Duration of illness,1,Index condition duration,Condition-related
+688,Papadopoulos et al. (2010),Age,1,Age,Demographics
+688,Papadopoulos et al. (2010),Gender,0,Sex,Demographics
+688,Papadopoulos et al. (2010),Gender,0,Sex,Demographics
+693,Villeneuve et al. (2010),Age,1,Age,Demographics
+693,Villeneuve et al. (2010),Duration of illness,1,Index condition duration,Condition-related
+693,Villeneuve et al. (2010),Gender,0,Sex,Demographics
+693,Villeneuve et al. (2010),illness severity,0,Index condition severity,Condition-related
+693,Villeneuve et al. (2010),Gender,0,Sex,Demographics
+693,Villeneuve et al. (2010),illness severity,0,Index condition severity,Condition-related
+698,Tedeschini et al. (2010),Depression severity,1,Index condition severity,Condition-related
+713,Cuijpers et al. (2009),Diagnosis,0,Index condition type,Condition-related
+713,Cuijpers et al. (2009),depression severity,0,Index condition severity,Condition-related
+723,Fabricatore et al. (2009),Gender,1,Sex,Demographics
+723,Fabricatore et al. (2009),Gender,1,Sex,Demographics
+723,Fabricatore et al. (2009),Gender,1,Sex,Demographics
+723,Fabricatore et al. (2009),Gender,1,Sex,Demographics
+723,Fabricatore et al. (2009),BMI,1,BMI,Demographics
+723,Fabricatore et al. (2009),BMI,1,BMI,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+723,Fabricatore et al. (2009),Age,0,Age,Demographics
+725,Heo et al. (2009),Depression indication,1,Depression,Depression/Anxiety
+725,Heo et al. (2009),Depression indication,1,Depression,Depression/Anxiety
+725,Heo et al. (2009),Gender,0,Sex,Demographics
+725,Heo et al. (2009),age,0,Age,Demographics
+725,Heo et al. (2009),Gender,0,Sex,Demographics
+725,Heo et al. (2009),age,0,Age,Demographics
+778,Heneghan et al. (2007),Age,1,Age,Demographics
+956,McVay et al. (2023),Number of pre-enrollment steps,1,Physical activity,Physical function
+956,McVay et al. (2023),Number of pre-enrollment steps,1,Physical activity,Physical function
+996,Hernandez-Rodriguez et al. (2022),Age,0,Age,Demographics
+996,Hernandez-Rodriguez et al. (2022),gender,0,Sex,Demographics
+1202,Kato et al. (2021),Age,1,Age,Demographics
+1202,Kato et al. (2021),Gender,0,Sex,Demographics
+1643,Aparicio et al. (2016),Age,0,Age,Demographics
+1643,Aparicio et al. (2016),gender,0,Sex,Demographics
+1655,Cramer et al. (2016),Health status,1,General health,Health/Wellbeing
+1655,Cramer et al. (2016),Medical conditions,1,Presence of comorbidities,Comorbidity
+1655,Cramer et al. (2016),Gender,1,Sex,Demographics
+1655,Cramer et al. (2016),Age,1,Age,Demographics
+2125,Lam et al. (2022),Age,1,Age,Demographics
+2125,Lam et al. (2022),Race,0,Race/Ethnicity,Demographics
+2125,Lam et al. (2022),gender,0,Sex,Demographics
+2125,Lam et al. (2022),marital status,0,Relationship status,Demographics
+2125,Lam et al. (2022),education,0,Socioeconomic status,Demographics
+2125,Lam et al. (2022),medical condition,0,Presence of comorbidities,Comorbidity
+2125,Lam et al. (2022),psychiatric disorder,0,Index condition type,Condition-related
+2125,Lam et al. (2022),veteran status,0,Veteran/Military status,Military experience
+2307,Lewis et al. (2020),Veteran or military status,0,Veteran/Military status,Military experience
+2307,Lewis et al. (2020),sexual trauma,0,Index condition type,Condition-related
+2307,Lewis et al. (2020),gender,0,Sex,Demographics
+2307,Lewis et al. (2020),education,0,Socioeconomic status,Demographics
+3048,Somerson et al. (2016),Age,0,Age,Demographics

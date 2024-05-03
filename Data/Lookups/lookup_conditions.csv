@@ -1,0 +1,45 @@
+Setting,condition,condition_group1,condition_group2
+Traumatic stress disorders,PTSD,PTSD,Psychological disorders
+Multiple sclerosis,Multiple sclerosis,Multiple sclerosis,Neurological disorders
+Smoking cessation,Smoking cessation,Smoking cessation,Addiction
+Mental health,Mental health,Mixed psychological disorders,Psychological disorders
+Multimorbidity,Multimorbidity,Multimorbidity,Chronic conditions
+Acute mania,Acute mania,Acute mania,Psychological disorders
+Cancer,Cancer,Cancer,Cancer
+Chronic pain,Chronic pain,Chronic pain,Chronic conditions
+"Anxiety, Stress",Anxiety disorders,Anxiety,Psychological disorders
+Borderline personality disorder,Borderline personality disorder,Personality disorders,Psychological disorders
+PTSD,PTSD,PTSD,Psychological disorders
+Stroke,Stroke,Stroke,Cardiometabolic
+Addiction,Addiction,Addiction,Addiction
+Depression,Depression,Depression,Psychological disorders
+T2D,T2D,Type 2 diabetes,Cardiometabolic
+"Rheumatoid arthritis, oesteoarthritis",Rheumatoid arthritis,Rheumatoid arthritis,Musculoskeletal disorders
+Schizophrenia,Schizophrenia,Schizophrenia,Psychological disorders
+Anxiety disorders,Anxiety disorders,Anxiety,Psychological disorders
+Dementia,Dementia,Dementia,Neurological disorders
+Eating disorders,Eating disorders,Eating disorders,Psychological disorders
+Psychological and behavioural health problems,Psychological and behavioural health disorders,Mixed psychological disorders,Psychological disorders
+OCD,OCD,OCD,Psychological disorders
+HIV,HIV,HIV,Infectious diseases
+Vocal rehabilitation,Vocal rehabilitation,Vocal rehabilitation,Ears nose and throat
+Rheumatoid arthritis,Rheumatoid arthritis,Rheumatoid arthritis,Musculoskeletal disorders
+Mixed,Mixed conditions,Mixed conditions,Mixed
+Allergic diseases,Allergic diseases,Allergy,Allergy
+Restless leg syndrome,Restless leg syndrome,Restless leg syndrome,Neurological disorders
+ADHD,ADHD,ADHD,Psychological disorders
+Knee osteoarthritis,Knee osteoarthritis,Knee osteoarthritis,Musculoskeletal disorders
+Fibromylagia,Fibromylagia,Fibromylagia,Chronic conditions
+Osteoarthritis,Osteoarthritis,Osteoarthritis,Musculoskeletal disorders
+Obesity,Obesity,Obesity,Cardiometabolic
+Schizophrenic disorders,Schizophrenic disorders,Schizophrenia,Psychological disorders
+Binge eating disorders,Binge eating disorders,Eating disorders,Psychological disorders
+Type 2 diabetes,Type 2 diabetes,Type 2 diabetes,Cardiometabolic
+Anxiety,Anxiety disorders,Anxiety,Psychological disorders
+Bulimia nervosa,Bulimia nervosa,Eating disorders,Psychological disorders
+Tinnitus,Tinnitus,Tinnitus,Ears nose and throat
+Coronary artery disease,Coronary artery disease,Coronary artery disease,Cardiometabolic
+Herpes zoster,Herpes zoster,Herpes zoster,Infectious diseases
+Mixed psychological conditions,Mixed psychological disorders,Mixed psychological disorders,Psychological disorders
+Anorexia nervosa,Anorexia nervosa,Eating disorders,Psychological disorders
+Orthopaedic surgery,Orthopaedic surgery,Orthopaedic surgery,Musculoskeletal disorders
