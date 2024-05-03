@@ -26,22 +26,22 @@ Lookups - Lookup tables used by the analysis scripts
 ## Scratch_data
 Contains scratch data created for tidying and grouping data
 
-grouped_unique_conditions - Grouping of conditions
-tidied_unique_attrition_oms - Tidied definitions of attrition outcomes
-tidied_unique_participant_chars - Tidied unique participant characteristics
-tidied_unique_trial_chars - Tidied unique trial characteristics
-toGroup_unique_conditions - Unique conditions prior to grouping
-toTidy_unique_attrition_oms - Unique attrition outcome definitions to tidy
-toTidy_unique_participant_chars - Unique participant characteristics to tidy
-toTidy_unique_trial_chars - Unique trial characteristics to tidy
+1. grouped_unique_conditions - Grouping of conditions
+2. tidied_unique_attrition_oms - Tidied definitions of attrition outcomes
+3. tidied_unique_participant_chars - Tidied unique participant characteristics
+4. tidied_unique_trial_chars - Tidied unique trial characteristics
+5. toGroup_unique_conditions - Unique conditions prior to grouping
+6. toTidy_unique_attrition_oms - Unique attrition outcome definitions to tidy
+7. toTidy_unique_participant_chars - Unique participant characteristics to tidy
+8. toTidy_unique_trial_chars - Unique trial characteristics to tidy
 
 ## Scripts
 Scripts used for data preparation and synthesis
 
-00_packages_functions_etc - Packages, functions and regex used for pattern finding
-01_prepare_data - Data preparation
-02_heatmaps - Heatmap generation
-03_ramstar - R-AMSTAR summaries
-04_summarise - Summarising data
+1. 00_packages_functions_etc - Packages, functions and regex used for pattern finding
+2. 01_prepare_data - Data preparation
+3. 02_heatmaps - Heatmap generation
+4. 03_ramstar - R-AMSTAR summaries
+5. 04_summarise - Summarising data
 
  
