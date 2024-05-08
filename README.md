@@ -4,10 +4,11 @@ This repository contains the R scripts and extracted data that was used in the s
 ## Data
 Contains the prepared data for synthesis, lookup tables and original extracts
 
-prepared_participant_chars - Participant-level characteristic data prepared for synthesis
-prepared_ramstar - R-AMSTAR quality appraisal data prepared for synthesis
-prepared_studies - Included study characteristics prepared for synthesis
-prepared_trial_chars - Trial-level characteristic data prepared for synthesis
+Prepared datasets - Data used for synthesis
+1. prepared_participant_chars - Participant-level characteristic data prepared for synthesis
+2. prepared_ramstar - R-AMSTAR quality appraisal data prepared for synthesis
+3. prepared_studies - Included study characteristics prepared for synthesis
+4. prepared_trial_chars - Trial-level characteristic data prepared for synthesis
 
 Extracts - The original extracts separated into:
 1. Extract_participants - Participant-level characteristic extracts
